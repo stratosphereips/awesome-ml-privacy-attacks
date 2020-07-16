@@ -1,4 +1,4 @@
-# Awesome atacks on ML privacy   [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome atacks on machine learning privacy   [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 This repository contains a curated list of papers related to privacy attacks against machine learning. A code repository is provided when available by the authors. For corrections, suggestions or missing papers, please either open an issue or submit a pull request.
 
 # Surveys and Overviews
