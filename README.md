@@ -84,3 +84,9 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**Extraction of Complex DNN Models: Real Threat or Boogeyman?**](https://arxiv.org/pdf/1910.05429.pdf) (Atli et al., 2020) 
 - [**Stealing Neural Networks via Timing Side Channels**](https://arxiv.org/pdf/1812.11720.pdf) (Duddu et al., 2019) 
 - [**DeepSniffer: A DNN Model Extraction Framework Based on Learning Architectural Hints**](https://dl.acm.org/doi/pdf/10.1145/3373376.3378460) (Hu et al., 2020) 
+
+## Privacy Metrics and Estimations
+- [**Estimating g-Leakage via Machine Learning**](https://arxiv.org/abs/2005.04399) (Romanelli et al., 2020)
+
+# Tools
+Coming Soon
