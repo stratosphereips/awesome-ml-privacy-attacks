@@ -87,6 +87,7 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 
 ## Privacy Metrics and Estimations
 - [**Estimating g-Leakage via Machine Learning**](https://arxiv.org/abs/2005.04399) (Romanelli et al., 2020)
+- [**Information-Theoretic Bounds on the Generalization Error and Privacy Leakage in Federated Learning**](https://arxiv.org/abs/2005.02503) (Yagli et al., 2020)
 
 # Tools
 Coming Soon
