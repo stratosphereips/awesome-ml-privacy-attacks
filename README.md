@@ -28,7 +28,7 @@ This repository contains a curated list of papers related to privacy attacks aga
 - [**Membership Inference Attacks on Sequence-to-Sequence Models: Is My Data In Your Machine Translation System?**](https://www.mitpressjournals.org/doi/full/10.1162/tacl_a_00299) (Hisamoto et al., 2020) 
 - [**Revisiting Membership Inference Under Realistic Assumptions**](https://arxiv.org/pdf/2005.10881.pdf) (Jayaraman et al., 2020)
 - [**When Machine Unlearning Jeopardizes Privacy**](https://arxiv.org/pdf/2005.02205.pdf) (Chen et al., 2020)
-- [**Modelling and Quantifying Membership Information Leakage in Machine Learning **](https://arxiv.org/pdf/2001.10648.pdf) (Farokhi and Kaafar, 2020)
+- [**Modelling and Quantifying Membership Information Leakage in Machine Learning**](https://arxiv.org/pdf/2001.10648.pdf) (Farokhi and Kaafar, 2020)
 
 ## Reconstruction
 Reconstruction attacks cover also attacks known as *model inversion* and *attribute inference*.
