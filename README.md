@@ -1,5 +1,5 @@
 # Awesome Attacks on Machine Learning Privacy   [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-This repository contains a curated list of papers related to privacy attacks against machine learning. A code repository is provided when available by the authors. For corrections, suggestions or missing papers, please either open an issue or submit a pull request.
+This repository contains a curated list of papers related to privacy attacks against machine learning. A code repository is provided when available by the authors. For corrections, suggestions, or missing papers, please either open an issue or submit a pull request.
 
 # Surveys and Overviews
 - [**A Survey of Privacy Attacks in Machine Learning**](https://arxiv.org/abs/2007.07646) (Rigaki and Garcia, 2020)
