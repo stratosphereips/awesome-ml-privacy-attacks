@@ -29,7 +29,6 @@ This repository contains a curated list of papers related to privacy attacks aga
 - [**Revisiting Membership Inference Under Realistic Assumptions**](https://arxiv.org/pdf/2005.10881.pdf) (Jayaraman et al., 2020)
 - [**When Machine Unlearning Jeopardizes Privacy**](https://arxiv.org/pdf/2005.02205.pdf) (Chen et al., 2020)
 - [**Modelling and Quantifying Membership Information Leakage in Machine Learning**](https://arxiv.org/pdf/2001.10648.pdf) (Farokhi and Kaafar, 2020)
-- [**Privacy Risks of Securing Machine Learning Models against Adversarial Examples**](https://arxiv.org/abs/1905.10291) (Song et al., 2019) ([code](https://github.com/inspire-group/privacy-vs-robustness))
 - [**Systematic Evaluation of Privacy Risks of Machine Learning Models**](https://arxiv.org/abs/2003.10595) (Song and Mittal, 2020) ([code](https://github.com/inspire-group/membership-inference-evaluation))
 - [**Towards the Infeasibility of Membership Inference on Deep Models**](https://arxiv.org/pdf/2005.13702.pdf) (Rezaei and Liu, 2020) ([code](https://github.com/shrezaei/MI-Attack))
 
