@@ -1,6 +1,15 @@
 # Awesome Attacks on Machine Learning Privacy   [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 This repository contains a curated list of papers related to privacy attacks against machine learning. A code repository is provided when available by the authors. For corrections, suggestions, or missing papers, please either open an issue or submit a pull request.
 
+# Contents
+- [Surveys and Overviews](#surveys-and-overviews)
+- [Papers and Code](#papers-and-code)
+  * [Membership inference](#membership-inference)
+  * [Reconstruction](#reconstruction)
+  * [Property inference](#property-inference)
+  * [Model extraction](#model-extraction)
+
+
 # Surveys and Overviews
 - [**A Survey of Privacy Attacks in Machine Learning**](https://arxiv.org/abs/2007.07646) (Rigaki and Garcia, 2020)
 - [**An Overview of Privacy in Machine Learning**](https://arxiv.org/pdf/2005.08679) (De Cristofaro, 2020)
@@ -29,7 +38,6 @@ This repository contains a curated list of papers related to privacy attacks aga
 - [**Revisiting Membership Inference Under Realistic Assumptions**](https://arxiv.org/pdf/2005.10881.pdf) (Jayaraman et al., 2020)
 - [**When Machine Unlearning Jeopardizes Privacy**](https://arxiv.org/pdf/2005.02205.pdf) (Chen et al., 2020)
 - [**Modelling and Quantifying Membership Information Leakage in Machine Learning**](https://arxiv.org/pdf/2001.10648.pdf) (Farokhi and Kaafar, 2020)
-- [**Privacy Risks of Securing Machine Learning Models against Adversarial Examples**](https://arxiv.org/abs/1905.10291) (Song et al., 2019) ([code](https://github.com/inspire-group/privacy-vs-robustness))
 - [**Systematic Evaluation of Privacy Risks of Machine Learning Models**](https://arxiv.org/abs/2003.10595) (Song and Mittal, 2020) ([code](https://github.com/inspire-group/membership-inference-evaluation))
 - [**Towards the Infeasibility of Membership Inference on Deep Models**](https://arxiv.org/pdf/2005.13702.pdf) (Rezaei and Liu, 2020) ([code](https://github.com/shrezaei/MI-Attack))
 
@@ -85,3 +93,4 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**Extraction of Complex DNN Models: Real Threat or Boogeyman?**](https://arxiv.org/pdf/1910.05429.pdf) (Atli et al., 2020) 
 - [**Stealing Neural Networks via Timing Side Channels**](https://arxiv.org/pdf/1812.11720.pdf) (Duddu et al., 2019) 
 - [**DeepSniffer: A DNN Model Extraction Framework Based on Learning Architectural Hints**](https://dl.acm.org/doi/pdf/10.1145/3373376.3378460) (Hu et al., 2020) 
+- [**CSI NN: Reverse Engineering of Neural Network Architectures Through Electromagnetic Side Channel**](https://www.usenix.org/system/files/sec19-batina.pdf) (Batina et al., 2019)
