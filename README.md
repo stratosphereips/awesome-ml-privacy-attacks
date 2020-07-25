@@ -68,6 +68,7 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**Beyond Inferring Class Representatives: User-Level Privacy Leakage From Federated Learning**](https://arxiv.org/pdf/1812.00535.pdf) (Wang et al., 2018) 
 - [**Exploring Image Reconstruction Attack in Deep Learning Computation Offloading**](https://dl.acm.org/doi/pdf/10.1145/3325413.3329791) (Oh and Lee, 2019) 
 - [**I Know What You See: Power Side-Channel Attack on Convolutional Neural Network Accelerators**](https://arxiv.org/pdf/1803.05847.pdf) (Wei et al., 2019)
+- [**Updates-Leak: Data Set Inference and Reconstruction Attacks in Online Learning**](https://arxiv.org/abs/1904.01067) (Salem et al., 2019)
 - [**Illuminating the Dark or how to recover what should not be seen in FE-based classifiers**](https://eprint.iacr.org/2018/1001) (Carpov et al., 2020)
 
 ## Property inference
