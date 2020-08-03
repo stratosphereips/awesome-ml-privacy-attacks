@@ -92,7 +92,6 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**CloudLeak: Large-Scale Deep Learning Models Stealing Through Adversarial Examples**](https://www.ndss-symposium.org/ndss-paper/cloudleak-large-scale-deep-learning-models-stealing-through-adversarial-examples/) (Yu et al., 2020) 
 - [**ACTIVETHIEF: Model Extraction Using Active Learning and Unannotated Public Data**](https://aaai.org/Papers/AAAI/2020GB/AAAI-PalS.7093.pdf) (Pal et al., 2020)
 - [**Efficiently Stealing your Machine Learning Models**](https://encrypto.de/papers/RST19.pdf) (Reith et al., 2019) 
-- [**A framework for the extraction of Deep Neural Networks by leveraging public data**](https://arxiv.org/abs/1905.09165) (Pal et al., 2019) 
 - [**Extraction of Complex DNN Models: Real Threat or Boogeyman?**](https://arxiv.org/pdf/1910.05429.pdf) (Atli et al., 2020) 
 - [**Stealing Neural Networks via Timing Side Channels**](https://arxiv.org/pdf/1812.11720.pdf) (Duddu et al., 2019) 
 - [**DeepSniffer: A DNN Model Extraction Framework Based on Learning Architectural Hints**](https://dl.acm.org/doi/pdf/10.1145/3373376.3378460) (Hu et al., 2020) 
