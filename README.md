@@ -42,6 +42,8 @@ This repository contains a curated list of papers related to privacy attacks aga
 - [**Towards the Infeasibility of Membership Inference on Deep Models**](https://arxiv.org/pdf/2005.13702.pdf) (Rezaei and Liu, 2020) ([code](https://github.com/shrezaei/MI-Attack))
 - [**Stolen Memories: Leveraging Model Memorization for Calibrated White-Box Membership Inference**](https://arxiv.org/abs/1906.11798) (Leino and Fredrikson, 2020) 
 - [**Label-Only Membership Inference Attacks**](https://arxiv.org/abs/2007.14321) (Choquette Choo et al., 2020) 
+- [**Label-Leaks: Membership Inference Attack with Label**](https://arxiv.org/abs/2007.15528) (Li and Zhang, 2020) 
+
 
 ## Reconstruction
 Reconstruction attacks cover also attacks known as *model inversion* and *attribute inference*.
