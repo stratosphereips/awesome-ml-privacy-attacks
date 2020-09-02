@@ -3,6 +3,7 @@ This repository contains a curated list of papers related to privacy attacks aga
 
 # Contents
 - [Surveys and Overviews](#surveys-and-overviews)
+  * [Privacy Testing Tools](#privacy-testing-tools)
 - [Papers and Code](#papers-and-code)
   * [Membership inference](#membership-inference)
   * [Reconstruction](#reconstruction)
@@ -15,7 +16,7 @@ This repository contains a curated list of papers related to privacy attacks aga
 - [**An Overview of Privacy in Machine Learning**](https://arxiv.org/pdf/2005.08679) (De Cristofaro, 2020)
 - [**Rethinking Privacy Preserving Deep Learning: How to Evaluate and Thwart Privacy Attacks**](https://arxiv.org/abs/2006.11601) (Fan et al., 2020)
 
-# Privacy Testing Tools
+## Privacy Testing Tools
 - [**PrivacyRaven**](https://github.com/trailofbits/PrivacyRaven) (Trail of Bits)
 - [**TensorFlow Privacy**](https://github.com/tensorflow/privacy/tree/master/tensorflow_privacy/privacy/membership_inference_attack) (TensorFlow)
 - [**Machine Learning Privacy Meter**](https://github.com/privacytrustlab/ml_privacy_meter) (NUS Data Privacy and Trustworthy Machine Learning Lab)
