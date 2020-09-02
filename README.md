@@ -14,6 +14,13 @@ This repository contains a curated list of papers related to privacy attacks aga
 - [**A Survey of Privacy Attacks in Machine Learning**](https://arxiv.org/abs/2007.07646) (Rigaki and Garcia, 2020)
 - [**An Overview of Privacy in Machine Learning**](https://arxiv.org/pdf/2005.08679) (De Cristofaro, 2020)
 - [**Rethinking Privacy Preserving Deep Learning: How to Evaluate and Thwart Privacy Attacks**](https://arxiv.org/abs/2006.11601) (Fan et al., 2020)
+
+# Privacy Testing Tools
+- [**PrivacyRaven**](https://github.com/trailofbits/PrivacyRaven) (Trail of Bits)
+- [**TensorFlow Privacy**](https://github.com/tensorflow/privacy/tree/master/tensorflow_privacy/privacy/membership_inference_attack) (TensorFlow)
+- [**Machine Learning Privacy Meter**](https://github.com/privacytrustlab/ml_privacy_meter) (NUS Data Privacy and Trustworthy Machine Learning Lab)
+- [**CypherCat (archive-only)**](https://github.com/Lab41/cyphercat) (IQT Labs/Lab 41)
+- [**Adversarial Robustness Toolbox (ART)**](https://github.com/Trusted-AI/adversarial-robustness-toolbox) (IBM)
  
 # Papers and Code
 
