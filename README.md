@@ -43,6 +43,7 @@ This repository contains a curated list of papers related to privacy attacks aga
 - [**Stolen Memories: Leveraging Model Memorization for Calibrated White-Box Membership Inference**](https://arxiv.org/abs/1906.11798) (Leino and Fredrikson, 2020) 
 - [**Label-Only Membership Inference Attacks**](https://arxiv.org/abs/2007.14321) (Choquette Choo et al., 2020) 
 - [**Label-Leaks: Membership Inference Attack with Label**](https://arxiv.org/abs/2007.15528) (Li and Zhang, 2020) 
+- [**Alleviating Privacy Attacks via Causal Learning**](https://arxiv.org/abs/1909.12732)(Tople et al., 2020)
 
 
 ## Reconstruction
@@ -101,3 +102,5 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**DeepSniffer: A DNN Model Extraction Framework Based on Learning Architectural Hints**](https://dl.acm.org/doi/pdf/10.1145/3373376.3378460) (Hu et al., 2020) 
 - [**CSI NN: Reverse Engineering of Neural Network Architectures Through Electromagnetic Side Channel**](https://www.usenix.org/system/files/sec19-batina.pdf) (Batina et al., 2019)
 - [**Cache Telepathy: Leveraging Shared Resource Attacks to Learn DNN Architectures**](https://www.usenix.org/conference/usenixsecurity20/presentation/yan) (Yan et al., 2020)
+- [**How to 0wn NAS in Your Spare Time**](https://arxiv.org/abs/2002.06776)(Hong et al., 2020)
+- [**Security Analysis of Deep Neural Networks Operating in the Presence of Cache Side-Channel Attacks**](https://arxiv.org/abs/1810.03487)(Hong et al., 2020)
