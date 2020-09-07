@@ -52,7 +52,7 @@ This repository contains a curated list of papers related to privacy attacks aga
 - [**Label-Only Membership Inference Attacks**](https://arxiv.org/abs/2007.14321) (Choquette Choo et al., 2020) 
 - [**Label-Leaks: Membership Inference Attack with Label**](https://arxiv.org/abs/2007.15528) (Li and Zhang, 2020) 
 - [**Alleviating Privacy Attacks via Causal Learning**](https://arxiv.org/abs/1909.12732) (Tople et al., 2020)
-
+- [**Hide-and-Seek Privacy Challenge**](https://arxiv.org/abs/2007.12087) (Jordan et al., 2020)
 
 ## Reconstruction
 Reconstruction attacks cover also attacks known as *model inversion* and *attribute inference*.
@@ -85,6 +85,8 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**Understanding Unintended Memorization in Federated Learning**](https://arxiv.org/abs/2006.07490) (Thakkar et al., 2020)
 - [**An Attack-Based Evaluation Method for Differentially Private Learning Against Model Inversion Attack**](https://ieeexplore.ieee.org/document/8822435) (Park et al., 2019)
 - [**Reducing Risk of Model Inversion Using Privacy-Guided Training**](https://arxiv.org/abs/2006.15877) (Goldsteen et al., 2020)
+- [**Robust Transparency Against Model Inversion Attacks**](https://ieeexplore.ieee.org/abstract/document/9178452) (Alufaisan et al., 2020)
+- [**Does AI Remember? Neural Networks and the Right to be Forgotten**](https://uwspace.uwaterloo.ca/handle/10012/15754) (Graves et al., 2020)
 
 ## Property inference
 - [**Hacking smart machines with smarter ones: How to extract meaningful data from machine learning classifiers**](https://dl.acm.org/doi/10.1504/IJSN.2015.071829) (Ateniese et al., 2015)
@@ -115,4 +117,5 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**How to 0wn NAS in Your Spare Time**](https://arxiv.org/abs/2002.06776) (Hong et al., 2020)
 - [**Security Analysis of Deep Neural Networks Operating in the Presence of Cache Side-Channel Attacks**](https://arxiv.org/abs/1810.03487) (Hong et al., 2020)
 - [**Reverse-Engineering Deep ReLU Networks**](https://proceedings.icml.cc/static/paper_files/icml/2020/1-Paper.pdf) (Rolnick and Kording, 2020)
-
+- [**Model Extraction Oriented Data Publishing with k-anonymity**](https://link.springer.com/chapter/10.1007/978-3-030-58208-1_13) (Fukuoka et al., 2020)
+- [**Hermes Attack: Steal DNN Models with Lossless Inference Accuracy**](https://arxiv.org/abs/2006.12784) (Zhu et al., 2020)
