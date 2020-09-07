@@ -83,6 +83,8 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**Illuminating the Dark or how to recover what should not be seen in FE-based classifiers**](https://eprint.iacr.org/2018/1001) (Carpov et al., 2020)
 - [**Evaluation Indicator for Model Inversion Attack**](https://drive.google.com/file/d/1rl77BGtGHzZ8obWUEOoqunXCjgvpzE8d/view) (Tanaka et al., 2020)
 - [**Understanding Unintended Memorization in Federated Learning**](https://arxiv.org/abs/2006.07490) (Thakkar et al., 2020)
+- [**An Attack-Based Evaluation Method for Differentially Private Learning Against Model Inversion Attack**](https://ieeexplore.ieee.org/document/8822435) (Park et al., 2019)
+- [**Reducing Risk of Model Inversion Using Privacy-Guided Training**](https://arxiv.org/abs/2006.15877) (Goldsteen et al., 2020)
 
 ## Property inference
 - [**Hacking smart machines with smarter ones: How to extract meaningful data from machine learning classifiers**](https://dl.acm.org/doi/10.1504/IJSN.2015.071829) (Ateniese et al., 2015)
