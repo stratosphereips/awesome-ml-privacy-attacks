@@ -52,6 +52,7 @@ This repository contains a curated list of papers related to privacy attacks aga
 - [**Label-Only Membership Inference Attacks**](https://arxiv.org/abs/2007.14321) (Choquette Choo et al., 2020) 
 - [**Label-Leaks: Membership Inference Attack with Label**](https://arxiv.org/abs/2007.15528) (Li and Zhang, 2020) 
 - [**Alleviating Privacy Attacks via Causal Learning**](https://arxiv.org/abs/1909.12732) (Tople et al., 2020)
+- [**On the Effectiveness of Regularization Against Membership Inference Attacks**](https://arxiv.org/abs/2006.05336) (Kaya et al., 2020)
 - [**Hide-and-Seek Privacy Challenge**](https://arxiv.org/abs/2007.12087) (Jordan et al., 2020)
 
 ## Reconstruction
@@ -119,3 +120,5 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**Reverse-Engineering Deep ReLU Networks**](https://proceedings.icml.cc/static/paper_files/icml/2020/1-Paper.pdf) (Rolnick and Kording, 2020)
 - [**Model Extraction Oriented Data Publishing with k-anonymity**](https://link.springer.com/chapter/10.1007/978-3-030-58208-1_13) (Fukuoka et al., 2020)
 - [**Hermes Attack: Steal DNN Models with Lossless Inference Accuracy**](https://arxiv.org/abs/2006.12784) (Zhu et al., 2020)
+- [**Model extraction from counterfactual explanations**](https://arxiv.org/abs/2009.01884) (Aïvodji et al., 2020)
+- [**MetaSimulator: Simulating Unknown Target Models for Query-Efficient Black-box Attacks**](https://arxiv.org/abs/2009.00960) (Chen and Yong, 2020)
