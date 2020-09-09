@@ -56,6 +56,7 @@ This repository contains a curated list of papers related to privacy attacks aga
 - [**Hide-and-Seek Privacy Challenge**](https://arxiv.org/abs/2007.12087) (Jordan et al., 2020)
 - [**Sampling Attacks: Amplification of Membership Inference Attacks by Repeated Queries**](https://arxiv.org/abs/2009.00395) (Rahimian et al., 2020)
 - [**Segmentations-Leak: Membership Inference Attacks and Defenses in Semantic Image Segmentation**](https://arxiv.org/abs/1912.09685) (He et al., 2019)
+- [**Differential Privacy Defenses and Sampling Attacks for Membership Inference**](https://priml-workshop.github.io/priml2019/papers/PriML2019_paper_47.pdf) (Rahimian et al., 2019)
 
 ## Reconstruction
 Reconstruction attacks cover also attacks known as *model inversion* and *attribute inference*.
