@@ -124,3 +124,4 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**Hermes Attack: Steal DNN Models with Lossless Inference Accuracy**](https://arxiv.org/abs/2006.12784) (Zhu et al., 2020)
 - [**Model extraction from counterfactual explanations**](https://arxiv.org/abs/2009.01884) (Aïvodji et al., 2020)
 - [**MetaSimulator: Simulating Unknown Target Models for Query-Efficient Black-box Attacks**](https://arxiv.org/abs/2009.00960) (Chen and Yong, 2020)
+- [**Prediction Poisoning: Towards Defenses Against DNN Model Stealing Attacks**](https://arxiv.org/abs/1906.10908) (Orekondy et al., 2019)
