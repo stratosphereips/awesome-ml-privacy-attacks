@@ -110,7 +110,7 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**Thieves on Sesame Street! Model Extraction of BERT-based APIs**](https://openreview.net/attachment?id=Byl5NREFDr&name=original_pdf) (Krishna et al., 2020) ([code](https://github.com/google-research/language/tree/master/language/bert_extraction))
 - [**Cryptanalytic Extraction of Neural Network Models**](https://arxiv.org/pdf/2003.04884.pdf) (Carlini et al., 2020) 
 - [**CloudLeak: Large-Scale Deep Learning Models Stealing Through Adversarial Examples**](https://www.ndss-symposium.org/ndss-paper/cloudleak-large-scale-deep-learning-models-stealing-through-adversarial-examples/) (Yu et al., 2020) 
-- [**ACTIVETHIEF: Model Extraction Using Active Learning and Unannotated Public Data**](https://www.aaai.org/ojs/index.php/AAAI/article/view/5432) (Pal et al., 2020)
+- [**ACTIVETHIEF: Model Extraction Using Active Learning and Unannotated Public Data**](https://www.aaai.org/ojs/index.php/AAAI/article/view/5432) (Pal et al., 2020) ([code](https://bitbucket.org/iiscseal/activethief/src/master))
 - [**Efficiently Stealing your Machine Learning Models**](https://encrypto.de/papers/RST19.pdf) (Reith et al., 2019) 
 - [**Extraction of Complex DNN Models: Real Threat or Boogeyman?**](https://arxiv.org/pdf/1910.05429.pdf) (Atli et al., 2020) 
 - [**Stealing Neural Networks via Timing Side Channels**](https://arxiv.org/pdf/1812.11720.pdf) (Duddu et al., 2019) 
