@@ -3,20 +3,20 @@ This repository contains a curated list of papers related to privacy attacks aga
 
 # Contents
 - [Surveys and Overviews](#surveys-and-overviews)
-  * [Privacy Testing Tools](#privacy-testing-tools)
+- [Privacy Testing Tools](#privacy-testing-tools)
 - [Papers and Code](#papers-and-code)
   * [Membership inference](#membership-inference)
   * [Reconstruction](#reconstruction)
   * [Property inference](#property-inference)
   * [Model extraction](#model-extraction)
-
+- [Other](#other)
 
 # Surveys and Overviews
 - [**A Survey of Privacy Attacks in Machine Learning**](https://arxiv.org/abs/2007.07646) (Rigaki and Garcia, 2020)
 - [**An Overview of Privacy in Machine Learning**](https://arxiv.org/pdf/2005.08679) (De Cristofaro, 2020)
 - [**Rethinking Privacy Preserving Deep Learning: How to Evaluate and Thwart Privacy Attacks**](https://arxiv.org/abs/2006.11601) (Fan et al., 2020)
 
-## Privacy Testing Tools
+# Privacy Testing Tools
 - [**PrivacyRaven**](https://github.com/trailofbits/PrivacyRaven) (Trail of Bits)
 - [**TensorFlow Privacy**](https://github.com/tensorflow/privacy/tree/master/tensorflow_privacy/privacy/membership_inference_attack) (TensorFlow)
 - [**Machine Learning Privacy Meter**](https://github.com/privacytrustlab/ml_privacy_meter) (NUS Data Privacy and Trustworthy Machine Learning Lab)
@@ -53,7 +53,6 @@ This repository contains a curated list of papers related to privacy attacks aga
 - [**Label-Leaks: Membership Inference Attack with Label**](https://arxiv.org/abs/2007.15528) (Li and Zhang, 2020) 
 - [**Alleviating Privacy Attacks via Causal Learning**](https://arxiv.org/abs/1909.12732) (Tople et al., 2020)
 - [**On the Effectiveness of Regularization Against Membership Inference Attacks**](https://arxiv.org/abs/2006.05336) (Kaya et al., 2020)
-- [**Hide-and-Seek Privacy Challenge**](https://arxiv.org/abs/2007.12087) (Jordan et al., 2020)
 - [**Sampling Attacks: Amplification of Membership Inference Attacks by Repeated Queries**](https://arxiv.org/abs/2009.00395) (Rahimian et al., 2020)
 - [**Segmentations-Leak: Membership Inference Attacks and Defenses in Semantic Image Segmentation**](https://arxiv.org/abs/1912.09685) (He et al., 2019)
 - [**Differential Privacy Defenses and Sampling Attacks for Membership Inference**](https://priml-workshop.github.io/priml2019/papers/PriML2019_paper_47.pdf) (Rahimian et al., 2019)
@@ -111,7 +110,7 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**Thieves on Sesame Street! Model Extraction of BERT-based APIs**](https://openreview.net/attachment?id=Byl5NREFDr&name=original_pdf) (Krishna et al., 2020) ([code](https://github.com/google-research/language/tree/master/language/bert_extraction))
 - [**Cryptanalytic Extraction of Neural Network Models**](https://arxiv.org/pdf/2003.04884.pdf) (Carlini et al., 2020) 
 - [**CloudLeak: Large-Scale Deep Learning Models Stealing Through Adversarial Examples**](https://www.ndss-symposium.org/ndss-paper/cloudleak-large-scale-deep-learning-models-stealing-through-adversarial-examples/) (Yu et al., 2020) 
-- [**ACTIVETHIEF: Model Extraction Using Active Learning and Unannotated Public Data**](https://www.aaai.org/ojs/index.php/AAAI/article/view/5432) (Pal et al., 2020)
+- [**ACTIVETHIEF: Model Extraction Using Active Learning and Unannotated Public Data**](https://www.aaai.org/ojs/index.php/AAAI/article/view/5432) (Pal et al., 2020) ([code](https://bitbucket.org/iiscseal/activethief/src/master))
 - [**Efficiently Stealing your Machine Learning Models**](https://encrypto.de/papers/RST19.pdf) (Reith et al., 2019) 
 - [**Extraction of Complex DNN Models: Real Threat or Boogeyman?**](https://arxiv.org/pdf/1910.05429.pdf) (Atli et al., 2020) 
 - [**Stealing Neural Networks via Timing Side Channels**](https://arxiv.org/pdf/1812.11720.pdf) (Duddu et al., 2019) 
@@ -126,3 +125,6 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**Model extraction from counterfactual explanations**](https://arxiv.org/abs/2009.01884) (Aïvodji et al., 2020)
 - [**MetaSimulator: Simulating Unknown Target Models for Query-Efficient Black-box Attacks**](https://arxiv.org/abs/2009.00960) (Chen and Yong, 2020)
 - [**Prediction Poisoning: Towards Defenses Against DNN Model Stealing Attacks**](https://arxiv.org/abs/1906.10908) (Orekondy et al., 2019)
+
+# Other
+- [**Hide-and-Seek Privacy Challenge**](https://arxiv.org/abs/2007.12087) (Jordan et al., 2020)
