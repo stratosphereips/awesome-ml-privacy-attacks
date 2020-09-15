@@ -56,6 +56,8 @@ This repository contains a curated list of papers related to privacy attacks aga
 - [**Sampling Attacks: Amplification of Membership Inference Attacks by Repeated Queries**](https://arxiv.org/abs/2009.00395) (Rahimian et al., 2020)
 - [**Segmentations-Leak: Membership Inference Attacks and Defenses in Semantic Image Segmentation**](https://arxiv.org/abs/1912.09685) (He et al., 2019)
 - [**Differential Privacy Defenses and Sampling Attacks for Membership Inference**](https://priml-workshop.github.io/priml2019/papers/PriML2019_paper_47.pdf) (Rahimian et al., 2019)
+- [**privGAN: Protecting GANs from membership inference attacks at low cost**](https://arxiv.org/abs/2001.00071) (Mukherjee et al., 2020)
+- [**Sharing Models or Coresets: A Study based on Membership Inference Attack**](https://arxiv.org/abs/2007.02977) (Lu et al., 2020)
 
 ## Reconstruction
 Reconstruction attacks cover also attacks known as *model inversion* and *attribute inference*.
@@ -90,6 +92,7 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**Reducing Risk of Model Inversion Using Privacy-Guided Training**](https://arxiv.org/abs/2006.15877) (Goldsteen et al., 2020)
 - [**Robust Transparency Against Model Inversion Attacks**](https://ieeexplore.ieee.org/abstract/document/9178452) (Alufaisan et al., 2020)
 - [**Does AI Remember? Neural Networks and the Right to be Forgotten**](https://uwspace.uwaterloo.ca/handle/10012/15754) (Graves et al., 2020)
+- [**Improving Robustness to Model Inversion Attacks via Mutual Information Regularization**](https://arxiv.org/abs/2009.05241) (Wang et al., 2020)
 
 ## Property inference
 - [**Hacking smart machines with smarter ones: How to extract meaningful data from machine learning classifiers**](https://dl.acm.org/doi/10.1504/IJSN.2015.071829) (Ateniese et al., 2015)
@@ -125,6 +128,7 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**Model extraction from counterfactual explanations**](https://arxiv.org/abs/2009.01884) (Aïvodji et al., 2020)
 - [**MetaSimulator: Simulating Unknown Target Models for Query-Efficient Black-box Attacks**](https://arxiv.org/abs/2009.00960) (Chen and Yong, 2020)
 - [**Prediction Poisoning: Towards Defenses Against DNN Model Stealing Attacks**](https://arxiv.org/abs/1906.10908) (Orekondy et al., 2019)
+- [**IReEn: Iterative Reverse-Engineering of Black-Box Functions via Neural Program Synthesis**](https://arxiv.org/abs/2006.10720) (Hajipour et al., 2020)
 
 # Other
 - [**Hide-and-Seek Privacy Challenge**](https://arxiv.org/abs/2007.12087) (Jordan et al., 2020)
