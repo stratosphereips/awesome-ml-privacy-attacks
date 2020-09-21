@@ -135,4 +135,5 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**IReEn: Iterative Reverse-Engineering of Black-Box Functions via Neural Program Synthesis**](https://arxiv.org/abs/2006.10720) (Hajipour et al., 2020)
 
 # Other
+- [**Toward Robustness and Privacy in Federated Learning: Experimenting with Local and Central Differential Privacy**](https://arxiv.org/abs/2009.03561) (Naseri et al., 2020)
 - [**Hide-and-Seek Privacy Challenge**](https://arxiv.org/abs/2007.12087) (Jordan et al., 2020)
