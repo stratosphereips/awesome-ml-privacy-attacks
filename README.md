@@ -61,6 +61,8 @@ This repository contains a curated list of papers related to privacy attacks aga
 - [**Privacy Analysis of Deep Learning in the Wild: Membership Inference Attacks against Transfer Learning**](https://arxiv.org/abs/2009.04872) (Zou et al., 2020)
 - [**Quantifying Membership Inference Vulnerability via Generalization Gap and Other Model Metrics**](https://arxiv.org/abs/2009.05669) (Bentley et al., 2020)
 - [**MACE: A Flexible Framework for Membership Privacy Estimation in Generative Models**](https://arxiv.org/abs/2009.05683) (Liu et al., 2020)
+- [**On Primes, Log-Loss Scores and (No) Privacy**](https://arxiv.org/abs/2009.08559) (Aggarwal et al., 2020)
+- [**MCMIA: Model Compression Against Membership Inference Attack in Deep Neural Networks**](https://arxiv.org/abs/2008.13578) (Wang et al., 2020)
 
 ## Reconstruction
 Reconstruction attacks cover also attacks known as *model inversion* and *attribute inference*.
@@ -133,7 +135,11 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**MetaSimulator: Simulating Unknown Target Models for Query-Efficient Black-box Attacks**](https://arxiv.org/abs/2009.00960) (Chen and Yong, 2020)
 - [**Prediction Poisoning: Towards Defenses Against DNN Model Stealing Attacks**](https://arxiv.org/abs/1906.10908) (Orekondy et al., 2019)
 - [**IReEn: Iterative Reverse-Engineering of Black-Box Functions via Neural Program Synthesis**](https://arxiv.org/abs/2006.10720) (Hajipour et al., 2020)
+- [**ES Attack: Model Stealing against Deep Neural Networks without Data Hurdles**](https://arxiv.org/abs/2009.09560) (Yuan et al., 2020)
 
 # Other
 - [**Toward Robustness and Privacy in Federated Learning: Experimenting with Local and Central Differential Privacy**](https://arxiv.org/abs/2009.03561) (Naseri et al., 2020)
+- [**Analyzing Information Leakage of Updates to Natural Language Models**](https://arxiv.org/abs/1912.07942) (Brockschmidt et al., 2020)
+- [**Estimating g-Leakage via Machine Learning**](https://arxiv.org/abs/2005.04399) (Romanelli et al., 2020)
+- [**Information Leakage in Embedding Models**](https://arxiv.org/abs/2004.00053) (Song and Raghunathan, 2020)
 - [**Hide-and-Seek Privacy Challenge**](https://arxiv.org/abs/2007.12087) (Jordan et al., 2020)
