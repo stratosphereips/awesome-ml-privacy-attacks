@@ -131,9 +131,9 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**Reverse-Engineering Deep ReLU Networks**](https://proceedings.icml.cc/static/paper_files/icml/2020/1-Paper.pdf) (Rolnick and Kording, 2020)
 - [**Model Extraction Oriented Data Publishing with k-anonymity**](https://link.springer.com/chapter/10.1007/978-3-030-58208-1_13) (Fukuoka et al., 2020)
 - [**Hermes Attack: Steal DNN Models with Lossless Inference Accuracy**](https://arxiv.org/abs/2006.12784) (Zhu et al., 2020)
-- [**Model extraction from counterfactual explanations**](https://arxiv.org/abs/2009.01884) (Aïvodji et al., 2020)
-- [**MetaSimulator: Simulating Unknown Target Models for Query-Efficient Black-box Attacks**](https://arxiv.org/abs/2009.00960) (Chen and Yong, 2020)
-- [**Prediction Poisoning: Towards Defenses Against DNN Model Stealing Attacks**](https://arxiv.org/abs/1906.10908) (Orekondy et al., 2019)
+- [**Model extraction from counterfactual explanations**](https://arxiv.org/abs/2009.01884) (Aïvodji et al., 2020) ([code](https://github.com/aivodji/mrce))
+- [**MetaSimulator: Simulating Unknown Target Models for Query-Efficient Black-box Attacks**](https://arxiv.org/abs/2009.00960) (Chen and Yong, 2020) ([code](https://github.com/machanic/MetaSimulator))
+- [**Prediction Poisoning: Towards Defenses Against DNN Model Stealing Attacks**](https://arxiv.org/abs/1906.10908) (Orekondy et al., 2019) ([code](https://github.com/tribhuvanesh/prediction-poisoning))
 - [**IReEn: Iterative Reverse-Engineering of Black-Box Functions via Neural Program Synthesis**](https://arxiv.org/abs/2006.10720) (Hajipour et al., 2020)
 - [**ES Attack: Model Stealing against Deep Neural Networks without Data Hurdles**](https://arxiv.org/abs/2009.09560) (Yuan et al., 2020)
 
