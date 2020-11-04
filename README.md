@@ -2,13 +2,15 @@
 This repository contains a curated list of papers related to privacy attacks against machine learning. A code repository is provided when available by the authors. For corrections, suggestions, or missing papers, please either open an issue or submit a pull request.
 
 # Contents
+- [Awesome Attacks on Machine Learning Privacy   ![Awesome](https://awesome.re)](#awesome-attacks-on-machine-learning-privacy-img-srchttpsawesomerebadgesvg-altawesome)
+- [Contents](#contents)
 - [Surveys and Overviews](#surveys-and-overviews)
 - [Privacy Testing Tools](#privacy-testing-tools)
 - [Papers and Code](#papers-and-code)
-  * [Membership inference](#membership-inference)
-  * [Reconstruction](#reconstruction)
-  * [Property inference](#property-inference)
-  * [Model extraction](#model-extraction)
+  - [Membership inference](#membership-inference)
+  - [Reconstruction](#reconstruction)
+  - [Property inference](#property-inference)
+  - [Model extraction](#model-extraction)
 - [Other](#other)
 
 # Surveys and Overviews
@@ -99,6 +101,8 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**Does AI Remember? Neural Networks and the Right to be Forgotten**](https://uwspace.uwaterloo.ca/handle/10012/15754) (Graves et al., 2020)
 - [**Improving Robustness to Model Inversion Attacks via Mutual Information Regularization**](https://arxiv.org/abs/2009.05241) (Wang et al., 2020)
 - [**SAPAG: A Self-Adaptive Privacy Attack From Gradients**](https://arxiv.org/abs/2009.06228) (Wang et al., 2020)
+- [**Theory-Oriented Deep Leakage from Gradients via Linear Equation Solver**](https://arxiv.org/abs/2010.13356) (Pan et al., 2020)
+- [**Improved Techniques for Model Inversion Attacks**](https://arxiv.org/abs/2010.04092) (Chen et al., 2020)
 
 ## Property inference
 - [**Hacking smart machines with smarter ones: How to extract meaningful data from machine learning classifiers**](https://dl.acm.org/doi/10.1504/IJSN.2015.071829) (Ateniese et al., 2015)
@@ -123,7 +127,7 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**Efficiently Stealing your Machine Learning Models**](https://encrypto.de/papers/RST19.pdf) (Reith et al., 2019) 
 - [**Extraction of Complex DNN Models: Real Threat or Boogeyman?**](https://arxiv.org/pdf/1910.05429.pdf) (Atli et al., 2020) 
 - [**Stealing Neural Networks via Timing Side Channels**](https://arxiv.org/pdf/1812.11720.pdf) (Duddu et al., 2019) 
-- [**DeepSniffer: A DNN Model Extraction Framework Based on Learning Architectural Hints**](https://dl.acm.org/doi/pdf/10.1145/3373376.3378460) (Hu et al., 2020) 
+- [**DeepSniffer: A DNN Model Extraction Framework Based on Learning Architectural Hints**](https://dl.acm.org/doi/pdf/10.1145/3373376.3378460) (Hu et al., 2020) ([code](https://github.com/xinghu7788/DeepSniffer))
 - [**CSI NN: Reverse Engineering of Neural Network Architectures Through Electromagnetic Side Channel**](https://www.usenix.org/system/files/sec19-batina.pdf) (Batina et al., 2019)
 - [**Cache Telepathy: Leveraging Shared Resource Attacks to Learn DNN Architectures**](https://www.usenix.org/conference/usenixsecurity20/presentation/yan) (Yan et al., 2020)
 - [**How to 0wn NAS in Your Spare Time**](https://arxiv.org/abs/2002.06776) (Hong et al., 2020)
@@ -136,6 +140,7 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**Prediction Poisoning: Towards Defenses Against DNN Model Stealing Attacks**](https://arxiv.org/abs/1906.10908) (Orekondy et al., 2019) ([code](https://github.com/tribhuvanesh/prediction-poisoning))
 - [**IReEn: Iterative Reverse-Engineering of Black-Box Functions via Neural Program Synthesis**](https://arxiv.org/abs/2006.10720) (Hajipour et al., 2020)
 - [**ES Attack: Model Stealing against Deep Neural Networks without Data Hurdles**](https://arxiv.org/abs/2009.09560) (Yuan et al., 2020)
+- [**Black-Box Ripper: Copying black-box models using generative evolutionary algorithms**](https://arxiv.org/abs/2010.11158) (Barbalau et al., 2020) ([code](https://github.com/antoniobarbalau/black-box-ripper))
 
 # Other
 - [**Toward Robustness and Privacy in Federated Learning: Experimenting with Local and Central Differential Privacy**](https://arxiv.org/abs/2009.03561) (Naseri et al., 2020)
