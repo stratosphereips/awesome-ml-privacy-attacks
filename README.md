@@ -130,7 +130,7 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**DeepSniffer: A DNN Model Extraction Framework Based on Learning Architectural Hints**](https://dl.acm.org/doi/pdf/10.1145/3373376.3378460) (Hu et al., 2020) ([code](https://github.com/xinghu7788/DeepSniffer))
 - [**CSI NN: Reverse Engineering of Neural Network Architectures Through Electromagnetic Side Channel**](https://www.usenix.org/system/files/sec19-batina.pdf) (Batina et al., 2019)
 - [**Cache Telepathy: Leveraging Shared Resource Attacks to Learn DNN Architectures**](https://www.usenix.org/conference/usenixsecurity20/presentation/yan) (Yan et al., 2020)
-- [**How to 0wn NAS in Your Spare Time**](https://arxiv.org/abs/2002.06776) (Hong et al., 2020)
+- [**How to 0wn NAS in Your Spare Time**](https://arxiv.org/abs/2002.06776) (Hong et al., 2020) ([code](https://github.com/Sanghyun-Hong/How-to-0wn-NAS-in-Your-Spare-Time))
 - [**Security Analysis of Deep Neural Networks Operating in the Presence of Cache Side-Channel Attacks**](https://arxiv.org/abs/1810.03487) (Hong et al., 2020)
 - [**Reverse-Engineering Deep ReLU Networks**](https://proceedings.icml.cc/static/paper_files/icml/2020/1-Paper.pdf) (Rolnick and Kording, 2020)
 - [**Model Extraction Oriented Data Publishing with k-anonymity**](https://link.springer.com/chapter/10.1007/978-3-030-58208-1_13) (Fukuoka et al., 2020)
