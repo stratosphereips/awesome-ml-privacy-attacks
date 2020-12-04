@@ -65,6 +65,9 @@ This repository contains a curated list of papers related to privacy attacks aga
 - [**MACE: A Flexible Framework for Membership Privacy Estimation in Generative Models**](https://arxiv.org/abs/2009.05683) (Liu et al., 2020)
 - [**On Primes, Log-Loss Scores and (No) Privacy**](https://arxiv.org/abs/2009.08559) (Aggarwal et al., 2020)
 - [**MCMIA: Model Compression Against Membership Inference Attack in Deep Neural Networks**](https://arxiv.org/abs/2008.13578) (Wang et al., 2020)
+- [**Bootstrap Aggregation for Point-based Generalized Membership Inference Attacks**](https://arxiv.org/abs/2011.08738) (Felps et al., 2020)
+- [**Differentially Private Learning Does Not Bound Membership Inference**](https://arxiv.org/abs/2010.12112) (Humphries et al., 2020)
+- [**Quantifying Membership Privacy via Information Leakage**](https://arxiv.org/abs/2010.05965) (Saeidian et al., 2020)
 
 ## Reconstruction
 Reconstruction attacks cover also attacks known as *model inversion* and *attribute inference*.
@@ -141,6 +144,7 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**IReEn: Iterative Reverse-Engineering of Black-Box Functions via Neural Program Synthesis**](https://arxiv.org/abs/2006.10720) (Hajipour et al., 2020)
 - [**ES Attack: Model Stealing against Deep Neural Networks without Data Hurdles**](https://arxiv.org/abs/2009.09560) (Yuan et al., 2020)
 - [**Black-Box Ripper: Copying black-box models using generative evolutionary algorithms**](https://arxiv.org/abs/2010.11158) (Barbalau et al., 2020) ([code](https://github.com/antoniobarbalau/black-box-ripper))
+- [**Model Extraction Attacks on Graph Neural Networks: Taxonomy and Realization**](https://arxiv.org/abs/2010.12751) (Wu et al., 2020) 
 
 # Other
 - [**Toward Robustness and Privacy in Federated Learning: Experimenting with Local and Central Differential Privacy**](https://arxiv.org/abs/2009.03561) (Naseri et al., 2020)
@@ -148,3 +152,4 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**Estimating g-Leakage via Machine Learning**](https://arxiv.org/abs/2005.04399) (Romanelli et al., 2020)
 - [**Information Leakage in Embedding Models**](https://arxiv.org/abs/2004.00053) (Song and Raghunathan, 2020)
 - [**Hide-and-Seek Privacy Challenge**](https://arxiv.org/abs/2007.12087) (Jordan et al., 2020)
+- [**Synthetic Data -- A Privacy Mirage**](https://arxiv.org/abs/2011.07018) (Stadler et al., 2020)
