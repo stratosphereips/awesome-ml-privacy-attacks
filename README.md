@@ -68,6 +68,7 @@ This repository contains a curated list of papers related to privacy attacks aga
 - [**Bootstrap Aggregation for Point-based Generalized Membership Inference Attacks**](https://arxiv.org/abs/2011.08738) (Felps et al., 2020)
 - [**Differentially Private Learning Does Not Bound Membership Inference**](https://arxiv.org/abs/2010.12112) (Humphries et al., 2020)
 - [**Quantifying Membership Privacy via Information Leakage**](https://arxiv.org/abs/2010.05965) (Saeidian et al., 2020)
+- [**Disparate Vulnerability: on the Unfairness of Privacy Attacks Against Machine Learning**](https://arxiv.org/abs/1906.00389) (Yaghini et al., 2020)
 
 ## Reconstruction
 Reconstruction attacks cover also attacks known as *model inversion* and *attribute inference*.
@@ -145,6 +146,7 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**ES Attack: Model Stealing against Deep Neural Networks without Data Hurdles**](https://arxiv.org/abs/2009.09560) (Yuan et al., 2020)
 - [**Black-Box Ripper: Copying black-box models using generative evolutionary algorithms**](https://arxiv.org/abs/2010.11158) (Barbalau et al., 2020) ([code](https://github.com/antoniobarbalau/black-box-ripper))
 - [**Model Extraction Attacks on Graph Neural Networks: Taxonomy and Realization**](https://arxiv.org/abs/2010.12751) (Wu et al., 2020) 
+- [**Extracting Training Data from Large Language Models**](https://arxiv.org/abs/2012.07805) (Carlini et al., 2020)
 
 # Other
 - [**Toward Robustness and Privacy in Federated Learning: Experimenting with Local and Central Differential Privacy**](https://arxiv.org/abs/2009.03561) (Naseri et al., 2020)
@@ -153,3 +155,5 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**Information Leakage in Embedding Models**](https://arxiv.org/abs/2004.00053) (Song and Raghunathan, 2020)
 - [**Hide-and-Seek Privacy Challenge**](https://arxiv.org/abs/2007.12087) (Jordan et al., 2020)
 - [**Synthetic Data -- A Privacy Mirage**](https://arxiv.org/abs/2011.07018) (Stadler et al., 2020)
+- [**Robust Membership Encoding: Inference Attacks and CopyrightProtection for Deep Learning**](https://arxiv.org/pdf/1909.12982.pdf) (Song and Shokri, 2020)
+- [**Quantifying Privacy Leakage in Graph Embedding**](https://arxiv.org/abs/2010.00906) (Duddu et al., 2020)
