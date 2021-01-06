@@ -17,6 +17,7 @@ This repository contains a curated list of papers related to privacy attacks aga
 - [**A Survey of Privacy Attacks in Machine Learning**](https://arxiv.org/abs/2007.07646) (Rigaki and Garcia, 2020)
 - [**An Overview of Privacy in Machine Learning**](https://arxiv.org/pdf/2005.08679) (De Cristofaro, 2020)
 - [**Rethinking Privacy Preserving Deep Learning: How to Evaluate and Thwart Privacy Attacks**](https://arxiv.org/abs/2006.11601) (Fan et al., 2020)
+- [**Privacy and Security Issues in Deep Learning: A Survey**](https://ieeexplore.ieee.org/abstract/document/9294026) (Liu et al., 2021)
 
 # Privacy Testing Tools
 - [**PrivacyRaven**](https://github.com/trailofbits/PrivacyRaven) (Trail of Bits)
