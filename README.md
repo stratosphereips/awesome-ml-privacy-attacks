@@ -108,6 +108,12 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**SAPAG: A Self-Adaptive Privacy Attack From Gradients**](https://arxiv.org/abs/2009.06228) (Wang et al., 2020)
 - [**Theory-Oriented Deep Leakage from Gradients via Linear Equation Solver**](https://arxiv.org/abs/2010.13356) (Pan et al., 2020)
 - [**Improved Techniques for Model Inversion Attacks**](https://arxiv.org/abs/2010.04092) (Chen et al., 2020)
+- [**KART: Privacy Leakage Framework of Language Models Pre-trained with Clinical Records**](https://arxiv.org/abs/2101.00036) (Nakamura et al., 2020)
+- [**Black-box Model Inversion Attribute Inference Attacks on Classification Models**](https://arxiv.org/abs/2012.03404) (Mehnaz et al., 2020)
+- [**Deep Face Recognizer Privacy Attack: Model Inversion Initialization by a Deep Generative Adversarial Data Space Discriminator**](https://ieeexplore.ieee.org/abstract/document/9306253?casa_token=H78uIRJ2smYAAAAA:iQiA_5d2a2mbH4oBF9EZwSjakAz3Muq3ZOkNDBkK_fLq19PEMGEvpipyli7d9SGKESglqIb9Ug) (Khosravy et al., 2020) 
+- [**MixCon: Adjusting the Separability of Data Representations for Harder Data Recovery**](https://arxiv.org/abs/2010.11463) (Li et al., 2020)
+
+
 
 ## Property inference
 - [**Hacking smart machines with smarter ones: How to extract meaningful data from machine learning classifiers**](https://dl.acm.org/doi/10.1504/IJSN.2015.071829) (Ateniese et al., 2015)
@@ -151,6 +157,8 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**Extracting Training Data from Large Language Models**](https://arxiv.org/abs/2012.07805) (Carlini et al., 2020)
 
 # Other
+- [**Evaluation of Inference Attack Models for Deep Learning on Medical Data**](https://arxiv.org/abs/2011.00177) (Wu et al., 2020)
+- [**Amnesiac Machine Learning**](https://arxiv.org/abs/2010.10981) (Graves et al., 2020)
 - [**Toward Robustness and Privacy in Federated Learning: Experimenting with Local and Central Differential Privacy**](https://arxiv.org/abs/2009.03561) (Naseri et al., 2020)
 - [**Analyzing Information Leakage of Updates to Natural Language Models**](https://arxiv.org/abs/1912.07942) (Brockschmidt et al., 2020)
 - [**Estimating g-Leakage via Machine Learning**](https://arxiv.org/abs/2005.04399) (Romanelli et al., 2020)
