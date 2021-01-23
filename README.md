@@ -163,6 +163,9 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**Black-Box Ripper: Copying black-box models using generative evolutionary algorithms**](https://arxiv.org/abs/2010.11158) (Barbalau et al., 2020) ([code](https://github.com/antoniobarbalau/black-box-ripper))
 - [**Model Extraction Attacks on Graph Neural Networks: Taxonomy and Realization**](https://arxiv.org/abs/2010.12751) (Wu et al., 2020) 
 - [**Extracting Training Data from Large Language Models**](https://arxiv.org/abs/2012.07805) (Carlini et al., 2020)
+- [**Model Extraction Attacks and Defenses on Cloud-Based Machine Learning Models**](https://ieeexplore.ieee.org/abstract/document/9311938?casa_token=f_8Lg24vAQkAAAAA:A7P5ym7bTLFIJZtL2yGorscyQC2R1WGJUKzcO-pn8wADHus0w8NArN-nv0JFcKYhwwQFeCaptQ) (Gong et al., 2020)
+- [**Leveraging Extracted Model Adversaries for Improved Black Box Attacks**](https://arxiv.org/abs/2010.16336) (Nizar and Kobren, 2020)
+- [**Differentially Private Machine Learning Model against Model Extraction Attack**](https://ieeexplore.ieee.org/abstract/document/9291542) (Cheng et al., 2020)
 
 # Other
 - [**Amnesiac Machine Learning**](https://arxiv.org/abs/2010.10981) (Graves et al., 2020)
