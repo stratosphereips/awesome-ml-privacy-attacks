@@ -75,6 +75,7 @@ This repository contains a curated list of papers related to privacy attacks aga
 - [**Unexpected Information Leakage of Differential Privacy Due to Linear Property of Queries**](https://arxiv.org/abs/2010.08958) (Huang et al., 2020)
 - [**TransMIA: Membership Inference Attacks Using Transfer Shadow Training**](https://arxiv.org/abs/2011.14661) (Hidano et al., 2020)
 - [**An Extension of Fano's Inequality for Characterizing Model Susceptibility to Membership Inference Attacks**](https://arxiv.org/abs/2009.08097) (Jha et al., 2020)
+- [**Adversary Instantiation: Lower Bounds for Differentially Private Machine Learning**](https://arxiv.org/abs/2101.04535) (Nasr et al., 2021)
 
 
 ## Reconstruction
