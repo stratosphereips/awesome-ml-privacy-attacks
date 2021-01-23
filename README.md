@@ -70,6 +70,12 @@ This repository contains a curated list of papers related to privacy attacks aga
 - [**Differentially Private Learning Does Not Bound Membership Inference**](https://arxiv.org/abs/2010.12112) (Humphries et al., 2020)
 - [**Quantifying Membership Privacy via Information Leakage**](https://arxiv.org/abs/2010.05965) (Saeidian et al., 2020)
 - [**Disparate Vulnerability: on the Unfairness of Privacy Attacks Against Machine Learning**](https://arxiv.org/abs/1906.00389) (Yaghini et al., 2020)
+- [**Use the Spear as a Shield: A Novel Adversarial Example based Privacy-Preserving Technique against Membership Inference Attacks**](https://arxiv.org/abs/2011.13696) (Xue et al., 2020)
+- [**Towards Realistic Membership Inferences: The Case of Survey Data**](https://dl.acm.org/doi/abs/10.1145/3427228.3427282?casa_token=eHK7DPiTIigAAAAA:sinfqtYoQA8GddIiwn28DYNEG1NsvW42wvUnRLkpBGQKhrI_mawTRV8MOmLGotqaTspYS-eOIp56UQ)
+- [**Unexpected Information Leakage of Differential Privacy Due to Linear Property of Queries**](https://arxiv.org/abs/2010.08958) (Huang et al., 2020)
+- [**TransMIA: Membership Inference Attacks Using Transfer Shadow Training**](https://arxiv.org/abs/2011.14661) (Hidano et al., 2020)
+- [**An Extension of Fano's Inequality for Characterizing Model Susceptibility to Membership Inference Attacks**](https://arxiv.org/abs/2009.08097) (Jha et al., 2020)
+
 
 ## Reconstruction
 Reconstruction attacks cover also attacks known as *model inversion* and *attribute inference*.
@@ -112,7 +118,8 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**Black-box Model Inversion Attribute Inference Attacks on Classification Models**](https://arxiv.org/abs/2012.03404) (Mehnaz et al., 2020)
 - [**Deep Face Recognizer Privacy Attack: Model Inversion Initialization by a Deep Generative Adversarial Data Space Discriminator**](https://ieeexplore.ieee.org/abstract/document/9306253?casa_token=H78uIRJ2smYAAAAA:iQiA_5d2a2mbH4oBF9EZwSjakAz3Muq3ZOkNDBkK_fLq19PEMGEvpipyli7d9SGKESglqIb9Ug) (Khosravy et al., 2020) 
 - [**MixCon: Adjusting the Separability of Data Representations for Harder Data Recovery**](https://arxiv.org/abs/2010.11463) (Li et al., 2020)
-
+- [**Evaluation of Inference Attack Models for Deep Learning on Medical Data**](https://arxiv.org/abs/2011.00177) (Wu et al., 2020)
+- [**FaceLeaks: Inference Attacks against Transfer Learning Models via Black-box Queries**](https://arxiv.org/abs/2010.14023) (Liew and Takahashi, 2020)
 
 
 ## Property inference
@@ -121,6 +128,7 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**Exploiting unintended feature leakage in collaborative learning**](https://ieeexplore.ieee.org/iel7/8826229/8835208/08835269.pdf) (Melis et al., 2019) ([code](https://github.com/csong27/property-inference-collaborative-ml))
 - [**Overlearning Reveals Sensitive Attributes**](https://openreview.net/pdf?id=SJeNz04tDS) (Song C. et al., 2020) ([code](https://drive.google.com/file/d/1hu0PhN3pWXe6LobxiPFeYBm8L-vQX2zJ/view?usp=sharing))
 - [**Subject Property Inference Attack in Collaborative Learning**](https://ieeexplore.ieee.org/document/9204357) (Xu and Li, 2020)
+
 
 ## Model extraction
 - [**Stealing machine learning models via prediction apis**](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_tramer.pdf) (Tramèr et al., 2016) ([code](https://github.com/ftramer/Steal-ML)) 
@@ -157,7 +165,6 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**Extracting Training Data from Large Language Models**](https://arxiv.org/abs/2012.07805) (Carlini et al., 2020)
 
 # Other
-- [**Evaluation of Inference Attack Models for Deep Learning on Medical Data**](https://arxiv.org/abs/2011.00177) (Wu et al., 2020)
 - [**Amnesiac Machine Learning**](https://arxiv.org/abs/2010.10981) (Graves et al., 2020)
 - [**Toward Robustness and Privacy in Federated Learning: Experimenting with Local and Central Differential Privacy**](https://arxiv.org/abs/2009.03561) (Naseri et al., 2020)
 - [**Analyzing Information Leakage of Updates to Natural Language Models**](https://arxiv.org/abs/1912.07942) (Brockschmidt et al., 2020)
