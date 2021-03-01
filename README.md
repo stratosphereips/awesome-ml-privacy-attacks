@@ -77,6 +77,12 @@ This repository contains a curated list of papers related to privacy attacks aga
 - [**TransMIA: Membership Inference Attacks Using Transfer Shadow Training**](https://arxiv.org/abs/2011.14661) (Hidano et al., 2020)
 - [**An Extension of Fano's Inequality for Characterizing Model Susceptibility to Membership Inference Attacks**](https://arxiv.org/abs/2009.08097) (Jha et al., 2020)
 - [**Adversary Instantiation: Lower Bounds for Differentially Private Machine Learning**](https://arxiv.org/abs/2101.04535) (Nasr et al., 2021)
+- [**Membership Inference Attack with Multi-Grade Service Models in Edge Intelligence**](https://ieeexplore.ieee.org/abstract/document/9355044?casa_token=jQafisVyDTsAAAAA:hjGRYTW8BWFnmvVnXdsrv42HQoBJ0EdzBhJf34nAf2BWlydneTb6Ll8GVnVdGfI4M4S53r3hMw) (Wang et al., 2021)
+- [**Reconstruction-Based Membership Inference Attacks are Easier on Difficult Problems**](https://arxiv.org/abs/2102.07762) (Shafran et al., 2021)
+- [**Membership Inference Attacks on Deep Regression Models for Neuroimaging**](https://openreview.net/forum?id=8lL_y9n-CV) (Gupta et al., 2021)
+- [**Node-Level Membership Inference Attacks Against Graph Neural Networks**](https://arxiv.org/abs/2102.05429) (He et al., 2021)
+- [**Practical Blind Membership Inference Attack via Differential Comparisons**](https://arxiv.org/abs/2101.01341) (Hui et al., 2021)
+- [**ADePT: Auto-encoder based Differentially Private Text Transformation**](https://arxiv.org/abs/2102.01502) (Krishna et al., 2021)
 
 
 ## Reconstruction
@@ -122,6 +128,9 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**MixCon: Adjusting the Separability of Data Representations for Harder Data Recovery**](https://arxiv.org/abs/2010.11463) (Li et al., 2020)
 - [**Evaluation of Inference Attack Models for Deep Learning on Medical Data**](https://arxiv.org/abs/2011.00177) (Wu et al., 2020)
 - [**FaceLeaks: Inference Attacks against Transfer Learning Models via Black-box Queries**](https://arxiv.org/abs/2010.14023) (Liew and Takahashi, 2020)
+- [**MIDAS: Model Inversion Defenses Using an Approximate Memory System**](https://ieeexplore.ieee.org/abstract/document/9358254) (Xu et al., 2021)
+- [**KART: Privacy Leakage Framework of Language Models Pre-trained with Clinical Records**](https://arxiv.org/abs/2101.00036) (Nakamura et al., 2020)
+- [**Derivation of Constraints from Machine Learning Models and Applications to Security and Privacy**](https://hal.archives-ouvertes.fr/hal-03091740/) (Falaschi et al., 2021)
 
 
 ## Property inference
@@ -185,3 +194,4 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**Synthetic Data -- A Privacy Mirage**](https://arxiv.org/abs/2011.07018) (Stadler et al., 2020)
 - [**Robust Membership Encoding: Inference Attacks and CopyrightProtection for Deep Learning**](https://arxiv.org/pdf/1909.12982.pdf) (Song and Shokri, 2020)
 - [**Quantifying Privacy Leakage in Graph Embedding**](https://arxiv.org/abs/2010.00906) (Duddu et al., 2020)
+- [**Quantifying and Mitigating Privacy Risks of Contrastive Learning**](https://arxiv.org/abs/2102.04140) (He and Zhang, 2021)
