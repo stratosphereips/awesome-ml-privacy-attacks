@@ -167,6 +167,12 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**Model Extraction Attacks and Defenses on Cloud-Based Machine Learning Models**](https://ieeexplore.ieee.org/abstract/document/9311938?casa_token=f_8Lg24vAQkAAAAA:A7P5ym7bTLFIJZtL2yGorscyQC2R1WGJUKzcO-pn8wADHus0w8NArN-nv0JFcKYhwwQFeCaptQ) (Gong et al., 2020)
 - [**Leveraging Extracted Model Adversaries for Improved Black Box Attacks**](https://arxiv.org/abs/2010.16336) (Nizar and Kobren, 2020)
 - [**Differentially Private Machine Learning Model against Model Extraction Attack**](https://ieeexplore.ieee.org/abstract/document/9291542) (Cheng et al., 2020)
+- - [**Model Extraction Attacks and Defenses on Cloud-Based Machine Learning Models**](https://ieeexplore.ieee.org/abstract/document/9311938?casa_token=YP1PeB4XPqEAAAAA:q1Ni88642UTpBQ8r7jUe9tbWjMWG9lw3v8CK4g1q7V-ZShK0KonYuMiapY4rXDfKVNST6xLtSw) (Gong et al., 2020)
+- [**Stealing Neural Network Models through the Scan Chain: A New Threat for ML Hardware**](https://eprint.iacr.org/2021/167) (Potluri and Aysu, 2021)
+- [**Model Extraction and Defenses on Generative Adversarial Networks**](https://arxiv.org/abs/2101.02069) (Hu and Pang, 2021)
+- [**Protecting Decision Boundary of Machine Learning Model With Differentially Private Perturbation**](https://ieeexplore.ieee.org/abstract/document/9286504) (Zheng et al., 2021)
+- [**Special-Purpose Model Extraction Attacks: Stealing Coarse Model with Fewer Queries**](https://ieeexplore.ieee.org/abstract/document/9343086?casa_token=Fn4CtwOZsbQAAAAA:4n3tZGcwFochwREqn4fRWcmA9YeLRxikwB1LN8t2ui1NbRPHSHjTuoqHrSfP1vxXfecw0kobBQ) (Okada et al., 2021)
+
 
 # Other
 - [**Amnesiac Machine Learning**](https://arxiv.org/abs/2010.10981) (Graves et al., 2020)
