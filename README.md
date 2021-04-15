@@ -133,6 +133,7 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**KART: Privacy Leakage Framework of Language Models Pre-trained with Clinical Records**](https://arxiv.org/abs/2101.00036) (Nakamura et al., 2020)
 - [**Derivation of Constraints from Machine Learning Models and Applications to Security and Privacy**](https://hal.archives-ouvertes.fr/hal-03091740/) (Falaschi et al., 2021)
 - [**On the (In)Feasibility of Attribute Inference Attacks on Machine Learning Models**](https://arxiv.org/abs/2103.07101) (Zhao et al., 2021)
+- [**Practical Defences Against Model Inversion Attacks for Split Neural Networks**](https://arxiv.org/abs/2104.05743) (Titcombe et al., 2021)
 
 
 ## Property inference
