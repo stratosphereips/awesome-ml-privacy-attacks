@@ -84,6 +84,7 @@ This repository contains a curated list of papers related to privacy attacks aga
 - [**Node-Level Membership Inference Attacks Against Graph Neural Networks**](https://arxiv.org/abs/2102.05429) (He et al., 2021)
 - [**Practical Blind Membership Inference Attack via Differential Comparisons**](https://arxiv.org/abs/2101.01341) (Hui et al., 2021)
 - [**ADePT: Auto-encoder based Differentially Private Text Transformation**](https://arxiv.org/abs/2102.01502) (Krishna et al., 2021)
+- [**The Influence of Dropout on Membership Inference in Differentially Private Models**](https://arxiv.org/abs/2103.09008) (Galinkin, 2021)
 
 
 ## Reconstruction
