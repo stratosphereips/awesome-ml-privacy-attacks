@@ -190,6 +190,8 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**Special-Purpose Model Extraction Attacks: Stealing Coarse Model with Fewer Queries**](https://ieeexplore.ieee.org/abstract/document/9343086?casa_token=Fn4CtwOZsbQAAAAA:4n3tZGcwFochwREqn4fRWcmA9YeLRxikwB1LN8t2ui1NbRPHSHjTuoqHrSfP1vxXfecw0kobBQ) (Okada et al., 2021)
 - [**Model Extraction and Adversarial Transferability, Your BERT is Vulnerable!**](https://arxiv.org/abs/2103.10013) (He et al., 2021) ([code](https://github.com/xlhex/extract_and_transfer))
 - [**Thief, Beware of What Get You There: Towards Understanding Model Extraction Attack**](https://arxiv.org/abs/2104.05921) (Zhang et al., 2021)
+- [**Model Weight Theft With Just Noise Inputs: The Curious Case of the Petulant Attacker**](https://arxiv.org/abs/1912.08987) (Roberts et al., 2019)
+- [**Protecting DNNs from Theft using an Ensemble of Diverse Models**](https://openreview.net/forum?id=LucJxySuJcE) (Kariyappa et al., 2021)
 
 
 # Other
