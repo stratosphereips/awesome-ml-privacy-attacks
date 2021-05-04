@@ -193,6 +193,7 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**Model Weight Theft With Just Noise Inputs: The Curious Case of the Petulant Attacker**](https://arxiv.org/abs/1912.08987) (Roberts et al., 2019)
 - [**Protecting DNNs from Theft using an Ensemble of Diverse Models**](https://openreview.net/forum?id=LucJxySuJcE) (Kariyappa et al., 2021)
 - [**Information Laundering for Model Privacy**](https://arxiv.org/abs/2009.06112) (Wang et al., 2021)
+- [**Deep Neural Network Fingerprinting by Conferrable Adversarial Examples**](https://arxiv.org/abs/1912.00888) (Lukas et al., 2021)
 
 
 # Other
