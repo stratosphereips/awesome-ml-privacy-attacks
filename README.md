@@ -145,6 +145,7 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**Overlearning Reveals Sensitive Attributes**](https://openreview.net/pdf?id=SJeNz04tDS) (Song C. et al., 2020) ([code](https://drive.google.com/file/d/1hu0PhN3pWXe6LobxiPFeYBm8L-vQX2zJ/view?usp=sharing))
 - [**Subject Property Inference Attack in Collaborative Learning**](https://ieeexplore.ieee.org/document/9204357) (Xu and Li, 2020)
 - [**Property Inference From Poisoning**](https://arxiv.org/abs/2101.11073) (Chase et al., 2021)
+- [**Property Inference Attacks on Convolutional Neural Networks: Influence and Implications of Target Model's Complexity**](https://arxiv.org/abs/2104.13061) (Parisot et al., 2021)
 
 
 ## Model extraction
