@@ -196,6 +196,7 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**Protecting DNNs from Theft using an Ensemble of Diverse Models**](https://openreview.net/forum?id=LucJxySuJcE) (Kariyappa et al., 2021)
 - [**Information Laundering for Model Privacy**](https://arxiv.org/abs/2009.06112) (Wang et al., 2021)
 - [**Deep Neural Network Fingerprinting by Conferrable Adversarial Examples**](https://arxiv.org/abs/1912.00888) (Lukas et al., 2021)
+- [**BODAME: Bilevel Optimization for Defense Against Model Extraction**](https://arxiv.org/abs/2103.06797) (Mori et al., 2021)
 
 
 # Other
