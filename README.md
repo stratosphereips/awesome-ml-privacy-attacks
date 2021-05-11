@@ -213,3 +213,4 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**Quantifying and Mitigating Privacy Risks of Contrastive Learning**](https://arxiv.org/abs/2102.04140) (He and Zhang, 2021)
 - [**Coded Machine Unlearning**](https://arxiv.org/abs/2012.15721) (Aldaghri et al., 2020)
 - [**Unlearnable Examples: Making Personal Data Unexploitable**](https://arxiv.org/abs/2101.04898) (Huang et al., 2021)
+- [**Measuring Data Leakage in Machine-Learning Models with Fisher Information**](https://arxiv.org/abs/2102.11673) (Hannun et al., 2021)
