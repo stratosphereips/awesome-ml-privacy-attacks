@@ -84,6 +84,7 @@ This repository contains a curated list of papers related to privacy attacks aga
 - [**Node-Level Membership Inference Attacks Against Graph Neural Networks**](https://arxiv.org/abs/2102.05429) (He et al., 2021)
 - [**Practical Blind Membership Inference Attack via Differential Comparisons**](https://arxiv.org/abs/2101.01341) (Hui et al., 2021)
 - [**ADePT: Auto-encoder based Differentially Private Text Transformation**](https://arxiv.org/abs/2102.01502) (Krishna et al., 2021)
+- [**The Influence of Dropout on Membership Inference in Differentially Private Models**](https://arxiv.org/abs/2103.09008) (Galinkin, 2021)
 - [**Membership Inference Attack Susceptibility of Clinical Language Models**](https://arxiv.org/abs/2104.08305) (Jagannatha et al., 2021)
 - [**Membership Inference Attacks on Knowledge Graphs**](https://arxiv.org/abs/2104.08273) (Wang & Sun, 2021)
 
@@ -136,7 +137,10 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**KART: Privacy Leakage Framework of Language Models Pre-trained with Clinical Records**](https://arxiv.org/abs/2101.00036) (Nakamura et al., 2020)
 - [**Derivation of Constraints from Machine Learning Models and Applications to Security and Privacy**](https://hal.archives-ouvertes.fr/hal-03091740/) (Falaschi et al., 2021)
 - [**On the (In)Feasibility of Attribute Inference Attacks on Machine Learning Models**](https://arxiv.org/abs/2103.07101) (Zhao et al., 2021)
+- [**Practical Defences Against Model Inversion Attacks for Split Neural Networks**](https://arxiv.org/abs/2104.05743) (Titcombe et al., 2021)
+- [**R-GAP: Recursive Gradient Attack on Privacy**](https://arxiv.org/abs/2010.07733) (Zhu and Blaschko, 2021)
 - [**Exploiting Explanations for Model Inversion Attacks**](https://arxiv.org/abs/2104.12669) (Zhao et al., 2021)
+
 
 ## Property inference
 - [**Hacking smart machines with smarter ones: How to extract meaningful data from machine learning classifiers**](https://dl.acm.org/doi/10.1504/IJSN.2015.071829) (Ateniese et al., 2015)
@@ -189,6 +193,13 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**Protecting Decision Boundary of Machine Learning Model With Differentially Private Perturbation**](https://ieeexplore.ieee.org/abstract/document/9286504) (Zheng et al., 2021)
 - [**Special-Purpose Model Extraction Attacks: Stealing Coarse Model with Fewer Queries**](https://ieeexplore.ieee.org/abstract/document/9343086?casa_token=Fn4CtwOZsbQAAAAA:4n3tZGcwFochwREqn4fRWcmA9YeLRxikwB1LN8t2ui1NbRPHSHjTuoqHrSfP1vxXfecw0kobBQ) (Okada et al., 2021)
 - [**Model Extraction and Adversarial Transferability, Your BERT is Vulnerable!**](https://arxiv.org/abs/2103.10013) (He et al., 2021) ([code](https://github.com/xlhex/extract_and_transfer))
+- [**Thief, Beware of What Get You There: Towards Understanding Model Extraction Attack**](https://arxiv.org/abs/2104.05921) (Zhang et al., 2021)
+- [**Model Weight Theft With Just Noise Inputs: The Curious Case of the Petulant Attacker**](https://arxiv.org/abs/1912.08987) (Roberts et al., 2019)
+- [**Protecting DNNs from Theft using an Ensemble of Diverse Models**](https://openreview.net/forum?id=LucJxySuJcE) (Kariyappa et al., 2021)
+- [**Information Laundering for Model Privacy**](https://arxiv.org/abs/2009.06112) (Wang et al., 2021)
+- [**Deep Neural Network Fingerprinting by Conferrable Adversarial Examples**](https://arxiv.org/abs/1912.00888) (Lukas et al., 2021)
+- [**BODAME: Bilevel Optimization for Defense Against Model Extraction**](https://arxiv.org/abs/2103.06797) (Mori et al., 2021)
+- [**Dataset Inference: Ownership Resolution in Machine Learning**](https://openreview.net/forum?id=hvdKKV2yt7T) (Maini et al., 2021)
 - [**Good Artists Copy, Great Artists Steal: Model Extraction Attacks Against Image Translation Generative Adversarial Networks**](https://arxiv.org/abs/2104.12623) (Szyller et al., 2021)
 
 
@@ -204,3 +215,5 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**Quantifying Privacy Leakage in Graph Embedding**](https://arxiv.org/abs/2010.00906) (Duddu et al., 2020)
 - [**Quantifying and Mitigating Privacy Risks of Contrastive Learning**](https://arxiv.org/abs/2102.04140) (He and Zhang, 2021)
 - [**Coded Machine Unlearning**](https://arxiv.org/abs/2012.15721) (Aldaghri et al., 2020)
+- [**Unlearnable Examples: Making Personal Data Unexploitable**](https://arxiv.org/abs/2101.04898) (Huang et al., 2021)
+- [**Measuring Data Leakage in Machine-Learning Models with Fisher Information**](https://arxiv.org/abs/2102.11673) (Hannun et al., 2021)
