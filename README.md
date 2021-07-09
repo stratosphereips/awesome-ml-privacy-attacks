@@ -20,6 +20,7 @@ This repository contains a curated list of papers related to privacy attacks aga
 - [**Privacy and Security Issues in Deep Learning: A Survey**](https://ieeexplore.ieee.org/abstract/document/9294026) (Liu et al., 2021)
 - [**ML-Doctor: Holistic Risk Assessment of Inference Attacks Against Machine Learning Models**](https://arxiv.org/abs/2102.02551) (Liu et al., 2021)
 - [**Membership Inference Attacks on Machine Learning: A Survey**](https://arxiv.org/abs/2103.07853) (Hu et al., 2021)
+- [**Survey: Leakage and Privacy at Inference Time**](https://arxiv.org/abs/2107.01614) (Jegorova et al., 2021)
 
 # Privacy Testing Tools
 - [**PrivacyRaven**](https://github.com/trailofbits/PrivacyRaven) (Trail of Bits)
@@ -87,6 +88,8 @@ This repository contains a curated list of papers related to privacy attacks aga
 - [**The Influence of Dropout on Membership Inference in Differentially Private Models**](https://arxiv.org/abs/2103.09008) (Galinkin, 2021)
 - [**Membership Inference Attack Susceptibility of Clinical Language Models**](https://arxiv.org/abs/2104.08305) (Jagannatha et al., 2021)
 - [**Membership Inference Attacks on Knowledge Graphs**](https://arxiv.org/abs/2104.08273) (Wang & Sun, 2021)
+- [**When Does Data Augmentation Help With Membership Inference Attacks?**](http://proceedings.mlr.press/v139/kaya21a.html) (Kaya and Dumitras, 2021)
+- [**The Influence of Training Parameters and Architectural Choices on the Vulnerability of Neural Networks to Membership Inference Attacks**](https://www.mi.fu-berlin.de/inf/groups/ag-idm/theseses/2021_oussama_bouanani_bsc_thesis.pdf) (Bouanani, 2021)
 
 
 ## Reconstruction
@@ -140,6 +143,7 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**Practical Defences Against Model Inversion Attacks for Split Neural Networks**](https://arxiv.org/abs/2104.05743) (Titcombe et al., 2021)
 - [**R-GAP: Recursive Gradient Attack on Privacy**](https://arxiv.org/abs/2010.07733) (Zhu and Blaschko, 2021)
 - [**Exploiting Explanations for Model Inversion Attacks**](https://arxiv.org/abs/2104.12669) (Zhao et al., 2021)
+- [**SAFELearn: Secure Aggregation for private FEderated Learning**](https://encrypto.de/papers/FMMMMNRSSYZ21.pdf) (Fereidooni et al., 2021)
 
 
 ## Property inference
@@ -217,3 +221,5 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**Coded Machine Unlearning**](https://arxiv.org/abs/2012.15721) (Aldaghri et al., 2020)
 - [**Unlearnable Examples: Making Personal Data Unexploitable**](https://arxiv.org/abs/2101.04898) (Huang et al., 2021)
 - [**Measuring Data Leakage in Machine-Learning Models with Fisher Information**](https://arxiv.org/abs/2102.11673) (Hannun et al., 2021)
+- [**Teacher Model Fingerprinting Attacks Against Transfer Learning**](https://arxiv.org/abs/2106.12478) (Chen et al, 2021)
+- [**Bounding Information Leakage in Machine Learning**](https://arxiv.org/abs/2105.03875) (Del Grosso et al., 2021)
