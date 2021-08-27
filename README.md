@@ -21,6 +21,7 @@ This repository contains a curated list of papers related to privacy attacks aga
 - [**ML-Doctor: Holistic Risk Assessment of Inference Attacks Against Machine Learning Models**](https://arxiv.org/abs/2102.02551) (Liu et al., 2021)
 - [**Membership Inference Attacks on Machine Learning: A Survey**](https://arxiv.org/abs/2103.07853) (Hu et al., 2021)
 - [**Survey: Leakage and Privacy at Inference Time**](https://arxiv.org/abs/2107.01614) (Jegorova et al., 2021)
+- [**A Review of Confidentiality Threats Against Embedded Neural Network Models**](https://arxiv.org/abs/2105.01401) (Joud et al., 2021)
 
 # Privacy Testing Tools
 - [**PrivacyRaven**](https://github.com/trailofbits/PrivacyRaven) (Trail of Bits)
@@ -91,6 +92,7 @@ This repository contains a curated list of papers related to privacy attacks aga
 - [**When Does Data Augmentation Help With Membership Inference Attacks?**](http://proceedings.mlr.press/v139/kaya21a.html) (Kaya and Dumitras, 2021)
 - [**The Influence of Training Parameters and Architectural Choices on the Vulnerability of Neural Networks to Membership Inference Attacks**](https://www.mi.fu-berlin.de/inf/groups/ag-idm/theseses/2021_oussama_bouanani_bsc_thesis.pdf) (Bouanani, 2021)
 - [**Membership Inference on Word Embedding and Beyond**](https://arxiv.org/abs/2106.11384) (Mahloujifar et al., 2021)
+- [**TableGAN-MCA: Evaluating Membership Collisions of GAN-Synthesized Tabular Data Releasing**](https://arxiv.org/abs/2107.13190) (Hu et al., 2021)
 
 
 ## Reconstruction
@@ -146,7 +148,12 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**SAFELearn: Secure Aggregation for private FEderated Learning**](https://encrypto.de/papers/FMMMMNRSSYZ21.pdf) (Fereidooni et al., 2021)
 - [**Does BERT Pretrained on Clinical Notes Reveal Sensitive Data?**](https://arxiv.org/abs/2104.07762) (Lehman et al., 2021)
 - [**Training Data Leakage Analysis in Language Models**](https://arxiv.org/abs/2101.05405) (Inan et al., 2021)
-- 
+- [**Exploiting Explanations for Model Inversion Attacks**](https://arxiv.org/abs/2104.12669) (Zhao et al., 2021)
+- [**Model Fragmentation, Shuffle and Aggregation to Mitigate Model Inversion in Federated Learning**](https://ieeexplore.ieee.org/abstract/document/9478813?casa_token=047c6zFuwm4AAAAA:h6qWPCm6WXUbtVgk1iATPshiPMfvGEp6lVUrblEm8P2tRX4OIDEDpnzICVwYveoENEnH6Ig-yg) (Masude et al., 2021)
+- [**PRECODE - A Generic Model Extension to Prevent Deep Gradient Leakage**](https://arxiv.org/abs/2108.04725) (Scheliga et al., 2021)
+- [**On the Importance of Encrypting Deep Features**](https://arxiv.org/abs/2108.07147) (Ni et al., 2021)
+- [**Defending Against Model Inversion Attack by Adversarial Examples**](https://www.cs.hku.hk/data/techreps/document/TR-2021-03.pdf) (Wen et al., 2021)
+- [****]() (et al., 2021)
 
 
 ## Property inference
@@ -208,6 +215,11 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**BODAME: Bilevel Optimization for Defense Against Model Extraction**](https://arxiv.org/abs/2103.06797) (Mori et al., 2021)
 - [**Dataset Inference: Ownership Resolution in Machine Learning**](https://openreview.net/forum?id=hvdKKV2yt7T) (Maini et al., 2021)
 - [**Good Artists Copy, Great Artists Steal: Model Extraction Attacks Against Image Translation Generative Adversarial Networks**](https://arxiv.org/abs/2104.12623) (Szyller et al., 2021)
+- [**Towards Characterizing Model Extraction Queries and How to Detect Them**](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2021/EECS-2021-126.pdf) (Zhang et al., 2021)
+- [**Hardness of Samples Is All You Need: Protecting Deep Learning Models Using Hardness of Samples**](https://arxiv.org/abs/2106.11424) (Sadeghzadeh et al., 2021)
+- [**Stateful Detection of Model Extraction Attacks**](https://arxiv.org/abs/2107.05166) (Pal et al., 2021)
+- [**MEGEX: Data-Free Model Extraction Attack against Gradient-Based Explainable AI**](https://arxiv.org/abs/2107.08909) (Miura et al., 2021)
+- [**INVERSENET: Augmenting Model Extraction Attacks with Training Data Inversion**](https://www.ijcai.org/proceedings/2021/0336.pdf) (Gong et al., 2021)
 
 
 # Other
