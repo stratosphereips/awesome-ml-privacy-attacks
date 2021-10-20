@@ -152,6 +152,7 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**PRECODE - A Generic Model Extension to Prevent Deep Gradient Leakage**](https://arxiv.org/abs/2108.04725) (Scheliga et al., 2021)
 - [**On the Importance of Encrypting Deep Features**](https://arxiv.org/abs/2108.07147) (Ni et al., 2021)
 - [**Defending Against Model Inversion Attack by Adversarial Examples**](https://www.cs.hku.hk/data/techreps/document/TR-2021-03.pdf) (Wen et al., 2021)
+- [**See through Gradients: Image Batch Recovery via GradInversion**](https://openaccess.thecvf.com/content/CVPR2021/papers/Yin_See_Through_Gradients_Image_Batch_Recovery_via_GradInversion_CVPR_2021_paper.pdf) (Yin et al., 2021)
 
 
 
