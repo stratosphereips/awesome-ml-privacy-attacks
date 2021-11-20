@@ -31,6 +31,7 @@ This repository contains a curated list of papers related to privacy attacks aga
 # Papers and Code
 
 ## Membership inference
+A curated list of membership inference papers (more than 100 papers) on machine learning models is available at [this repository](https://github.com/HongshengHu/membership-inference-machine-learning-literature).
 - [**Membership inference attacks against machine learning models**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7958568) (Shokri et al., 2017) ([code](https://github.com/csong27/membership-inference))
 - [**Understanding membership inferences on well-generalized learning models**](https://arxiv.org/pdf/1802.04889)(Long et al., 2018)
 - [**Privacy risk in machine learning: Analyzing the connection to overfitting**](https://ieeexplore.ieee.org/document/8429311), (Yeom et al., 2018) ([code](https://github.com/samuel-yeom/ml-privacy-csf18))
@@ -84,6 +85,7 @@ This repository contains a curated list of papers related to privacy attacks aga
 - [**Node-Level Membership Inference Attacks Against Graph Neural Networks**](https://arxiv.org/abs/2102.05429) (He et al., 2021)
 - [**Practical Blind Membership Inference Attack via Differential Comparisons**](https://arxiv.org/abs/2101.01341) (Hui et al., 2021)
 - [**ADePT: Auto-encoder based Differentially Private Text Transformation**](https://arxiv.org/abs/2102.01502) (Krishna et al., 2021)
+- [**Source Inference Attacks in Federated Learning**](https://arxiv.org/abs/2109.05659) (Hu et al., 2021) ([code](https://github.com/HongshengHu/source-inference-FL))
 
 
 ## Reconstruction
