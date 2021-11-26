@@ -96,6 +96,8 @@ A curated list of membership inference papers (more than 100 papers) on machine 
 - [**The Influence of Training Parameters and Architectural Choices on the Vulnerability of Neural Networks to Membership Inference Attacks**](https://www.mi.fu-berlin.de/inf/groups/ag-idm/theseses/2021_oussama_bouanani_bsc_thesis.pdf) (Bouanani, 2021)
 - [**Membership Inference on Word Embedding and Beyond**](https://arxiv.org/abs/2106.11384) (Mahloujifar et al., 2021)
 - [**TableGAN-MCA: Evaluating Membership Collisions of GAN-Synthesized Tabular Data Releasing**](https://arxiv.org/abs/2107.13190) (Hu et al., 2021)
+- [**Enhanced Membership Inference Attacks against Machine Learning Models**](https://arxiv.org/abs/2111.09679) (Ye et al., 2021)
+
 
 
 ## Reconstruction
@@ -233,7 +235,7 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**Estimating g-Leakage via Machine Learning**](https://arxiv.org/abs/2005.04399) (Romanelli et al., 2020)
 - [**Information Leakage in Embedding Models**](https://arxiv.org/abs/2004.00053) (Song and Raghunathan, 2020)
 - [**Hide-and-Seek Privacy Challenge**](https://arxiv.org/abs/2007.12087) (Jordan et al., 2020)
-- [**Synthetic Data -- A Privacy Mirage**](https://arxiv.org/abs/2011.07018) (Stadler et al., 2020)
+- [**Synthetic Data -- Anonymisation Groundhog Day**](https://arxiv.org/abs/2011.07018) (Stadler et al., 2020) ([code](https://github.com/spring-epfl/synthetic_data_release))
 - [**Robust Membership Encoding: Inference Attacks and CopyrightProtection for Deep Learning**](https://arxiv.org/pdf/1909.12982.pdf) (Song and Shokri, 2020)
 - [**Quantifying Privacy Leakage in Graph Embedding**](https://arxiv.org/abs/2010.00906) (Duddu et al., 2020)
 - [**Quantifying and Mitigating Privacy Risks of Contrastive Learning**](https://arxiv.org/abs/2102.04140) (He and Zhang, 2021)
