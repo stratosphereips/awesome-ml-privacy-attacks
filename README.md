@@ -118,7 +118,7 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**The secret revealer: generative model-inversion attacks against deep neural networks**](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_The_Secret_Revealer_Generative_Model-Inversion_Attacks_Against_Deep_Neural_Networks_CVPR_2020_paper.pdf)) (Zhang et al., 2020)
 - [**Inverting Gradients - How easy is it to break privacy in federated learning?**](https://arxiv.org/abs/2003.14053) (Geiping et al., 2020)
 - [**GAMIN: An Adversarial Approach to Black-Box Model Inversion**](https://arxiv.org/abs/1909.11835) (Aivodji et al., 2019)
-- [**Adversarial Privacy Preservation under Attribute Inference Attack**](https://arxiv.org/abs/1906.07902) (Zhao et al., 2019) 
+- [**Trade-offs and Guarantees of Adversarial Representation Learning for Information Obfuscation**](https://arxiv.org/abs/1906.07902) (Zhao et al., 2020) 
 - [**Reconstruction of training samples from loss functions**](https://arxiv.org/pdf/1805.07337.pdf) (Sannai, 2018)
 - [**A Framework for Evaluating Gradient Leakage Attacks in Federated Learning**](https://arxiv.org/pdf/2004.10397.pdf) (Wei et al., 2020) 
 - [**Deep Models Under the GAN: Information Leakage from Collaborative Deep Learning**](https://arxiv.org/pdf/1702.07464.pdf) (Hitaj et al., 2017)
