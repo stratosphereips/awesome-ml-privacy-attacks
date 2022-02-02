@@ -226,6 +226,8 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**Stateful Detection of Model Extraction Attacks**](https://arxiv.org/abs/2107.05166) (Pal et al., 2021)
 - [**MEGEX: Data-Free Model Extraction Attack against Gradient-Based Explainable AI**](https://arxiv.org/abs/2107.08909) (Miura et al., 2021)
 - [**INVERSENET: Augmenting Model Extraction Attacks with Training Data Inversion**](https://www.ijcai.org/proceedings/2021/0336.pdf) (Gong et al., 2021)
+- [**Can't Steal? Cont-Steal! Contrastive Stealing Attacks Against Image Encoders**](https://arxiv.org/abs/2201.07513) (Sha et al., 2022) 
+- [**StolenEncoder: Stealing Pre-trained Encoders**](https://arxiv.org/abs/2201.05889) (Liu et al., 2022)
 
 
 # Other
