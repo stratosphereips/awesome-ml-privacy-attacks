@@ -97,6 +97,7 @@ A curated list of membership inference papers (more than 100 papers) on machine 
 - [**Membership Inference on Word Embedding and Beyond**](https://arxiv.org/abs/2106.11384) (Mahloujifar et al., 2021)
 - [**TableGAN-MCA: Evaluating Membership Collisions of GAN-Synthesized Tabular Data Releasing**](https://arxiv.org/abs/2107.13190) (Hu et al., 2021)
 - [**Enhanced Membership Inference Attacks against Machine Learning Models**](https://arxiv.org/abs/2111.09679) (Ye et al., 2021)
+- [**Do Not Trust Prediction Scores for Membership Inference Attacks**](https://arxiv.org/abs/2111.09076) (Hintersdorf et al., 2021)
 
 
 
@@ -158,6 +159,9 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**On the Importance of Encrypting Deep Features**](https://arxiv.org/abs/2108.07147) (Ni et al., 2021)
 - [**Defending Against Model Inversion Attack by Adversarial Examples**](https://www.cs.hku.hk/data/techreps/document/TR-2021-03.pdf) (Wen et al., 2021)
 - [**See through Gradients: Image Batch Recovery via GradInversion**](https://openaccess.thecvf.com/content/CVPR2021/papers/Yin_See_Through_Gradients_Image_Batch_Recovery_via_GradInversion_CVPR_2021_paper.pdf) (Yin et al., 2021)
+- [**Variational Model Inversion Attacks**](https://arxiv.org/abs/2201.10787) (Wang et al., 2021)
+- [**Reconstructing Training Data with Informed Adversaries**](https://arxiv.org/abs/2201.04845) (Balle et al., 2022)
+- [**Plug & Play Attacks: Towards Robust and Flexible Model Inversion Attacks**](https://arxiv.org/abs/2201.12179) (Struppek et al., 2022)
 
 
 
@@ -247,3 +251,4 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**Teacher Model Fingerprinting Attacks Against Transfer Learning**](https://arxiv.org/abs/2106.12478) (Chen et al, 2021)
 - [**Bounding Information Leakage in Machine Learning**](https://arxiv.org/abs/2105.03875) (Del Grosso et al., 2021)
 - [**RoFL: Attestable Robustness for Secure Federated Learning**](https://arxiv.org/abs/2107.03311) (Burkhalter et al., 2021)
+- [**Learning to Break Deep Perceptual Hashing: The Use Case NeuralHash**](https://arxiv.org/abs/2111.06628) (Struppek et al., 2021)
