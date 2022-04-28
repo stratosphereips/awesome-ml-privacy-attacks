@@ -175,7 +175,7 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**Property Inference Attacks on Convolutional Neural Networks: Influence and Implications of Target Model's Complexity**](https://arxiv.org/abs/2104.13061) (Parisot et al., 2021)
 - [**Honest-but-Curious Nets: Sensitive Attributes of Private Inputs can be Secretly Coded into the Entropy of Classifiers' Outputs**](https://arxiv.org/abs/2105.12049) (Malekzadeh et al. 2021) ([code](https://github.com/mmalekzadeh/honest-but-curious-nets))
 - [**Property Inference Attacks Against GANs**](https://arxiv.org/abs/2111.07608) (Zhou et al., 2021) ([code](https://github.com/Zhou-Junhao/PIA_GAN))
-- [**Formalizing and Estimating Distribution Inference Risks**](https://arxiv.org/pdf/2109.06024.pdf) (Suri et al., 2022) ([code](https://github.com/iamgroot42/FormEstDistRisks))
+- [**Formalizing and Estimating Distribution Inference Risks**](https://arxiv.org/abs/2109.06024) (Suri et al., 2022) ([code](https://github.com/iamgroot42/FormEstDistRisks))
 
 
 ## Model extraction
