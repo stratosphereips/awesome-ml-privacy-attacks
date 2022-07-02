@@ -98,6 +98,7 @@ A curated list of membership inference papers (more than 100 papers) on machine 
 - [**TableGAN-MCA: Evaluating Membership Collisions of GAN-Synthesized Tabular Data Releasing**](https://arxiv.org/abs/2107.13190) (Hu et al., 2021)
 - [**Enhanced Membership Inference Attacks against Machine Learning Models**](https://arxiv.org/abs/2111.09679) (Ye et al., 2021)
 - [**Do Not Trust Prediction Scores for Membership Inference Attacks**](https://arxiv.org/abs/2111.09076) (Hintersdorf et al., 2021)
+- [**Membership Inference via Backdooring**](https://arxiv.org/abs/2206.04823) (Hu et al. 2022)
 
 
 
