@@ -23,6 +23,7 @@ This repository contains a curated list of papers related to privacy attacks aga
 - [**Survey: Leakage and Privacy at Inference Time**](https://arxiv.org/abs/2107.01614) (Jegorova et al., 2021)
 - [**A Review of Confidentiality Threats Against Embedded Neural Network Models**](https://arxiv.org/abs/2105.01401) (Joud et al., 2021)
 - [**Federated Learning Attacks Revisited: A Critical Discussion of Gaps,Assumptions, and Evaluation Setups**](https://arxiv.org/abs/2111.03363) (Wainakh et al., 2021)
+- [**I Know What You Trained Last Summer: A Survey on Stealing Machine Learning Models and Defences**](https://arxiv.org/abs/2206.08451) (Oliynyk et al., 2022)
 
 # Privacy Testing Tools
 - [**PrivacyRaven**](https://github.com/trailofbits/PrivacyRaven) (Trail of Bits)
