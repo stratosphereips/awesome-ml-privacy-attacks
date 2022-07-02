@@ -257,3 +257,4 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**RoFL: Attestable Robustness for Secure Federated Learning**](https://arxiv.org/abs/2107.03311) (Burkhalter et al., 2021)
 - [**Learning to Break Deep Perceptual Hashing: The Use Case NeuralHash**](https://arxiv.org/abs/2111.06628) (Struppek et al., 2021)
 - [**The Privacy Onion Effect: Memorization is Relative**](https://arxiv.org/abs/2206.10469) (Carlini et al., 2022)
+- [**Truth Serum: Poisoning Machine Learning Models to Reveal Their Secrets**](https://arxiv.org/abs/2204.00032) (Tramer et al., 2022)
