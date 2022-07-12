@@ -23,6 +23,7 @@ This repository contains a curated list of papers related to privacy attacks aga
 - [**Survey: Leakage and Privacy at Inference Time**](https://arxiv.org/abs/2107.01614) (Jegorova et al., 2021)
 - [**A Review of Confidentiality Threats Against Embedded Neural Network Models**](https://arxiv.org/abs/2105.01401) (Joud et al., 2021)
 - [**Federated Learning Attacks Revisited: A Critical Discussion of Gaps,Assumptions, and Evaluation Setups**](https://arxiv.org/abs/2111.03363) (Wainakh et al., 2021)
+- [**I Know What You Trained Last Summer: A Survey on Stealing Machine Learning Models and Defences**](https://arxiv.org/abs/2206.08451) (Oliynyk et al., 2022)
 
 # Privacy Testing Tools
 - [**PrivacyRaven**](https://github.com/trailofbits/PrivacyRaven) (Trail of Bits)
@@ -98,6 +99,7 @@ A curated list of membership inference papers (more than 100 papers) on machine 
 - [**TableGAN-MCA: Evaluating Membership Collisions of GAN-Synthesized Tabular Data Releasing**](https://arxiv.org/abs/2107.13190) (Hu et al., 2021)
 - [**Enhanced Membership Inference Attacks against Machine Learning Models**](https://arxiv.org/abs/2111.09679) (Ye et al., 2021)
 - [**Do Not Trust Prediction Scores for Membership Inference Attacks**](https://arxiv.org/abs/2111.09076) (Hintersdorf et al., 2021)
+- [**Membership Inference via Backdooring**](https://arxiv.org/abs/2206.04823) (Hu et al. 2022)
 
 
 
@@ -254,3 +256,5 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**Bounding Information Leakage in Machine Learning**](https://arxiv.org/abs/2105.03875) (Del Grosso et al., 2021)
 - [**RoFL: Attestable Robustness for Secure Federated Learning**](https://arxiv.org/abs/2107.03311) (Burkhalter et al., 2021)
 - [**Learning to Break Deep Perceptual Hashing: The Use Case NeuralHash**](https://arxiv.org/abs/2111.06628) (Struppek et al., 2021)
+- [**The Privacy Onion Effect: Memorization is Relative**](https://arxiv.org/abs/2206.10469) (Carlini et al., 2022)
+- [**Truth Serum: Poisoning Machine Learning Models to Reveal Their Secrets**](https://arxiv.org/abs/2204.00032) (Tramer et al., 2022)
