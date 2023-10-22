@@ -9,7 +9,7 @@ This repository contains a curated list of papers related to privacy attacks aga
 - [Papers and Code](#papers-and-code)
   - [Membership inference](#membership-inference)
   - [Reconstruction](#reconstruction)
-  - [Property inference](#property-inference)
+  - [Property inference/Distribution inference](#property-inference)
   - [Model extraction](#model-extraction)
 - [Other](#other)
 
@@ -169,7 +169,7 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 
 
 
-## Property inference
+## Property inference / Distribution inference
 - [**Hacking smart machines with smarter ones: How to extract meaningful data from machine learning classifiers**](https://dl.acm.org/doi/10.1504/IJSN.2015.071829) (Ateniese et al., 2015)
 - [**Property inference attacks on fully connected neural networks using permutation invariant representations**](https://dl.acm.org/doi/pdf/10.1145/3243734.3243834) (Ganju et al., 2018)
 - [**Exploiting unintended feature leakage in collaborative learning**](https://ieeexplore.ieee.org/iel7/8826229/8835208/08835269.pdf) (Melis et al., 2019) ([code](https://github.com/csong27/property-inference-collaborative-ml))
@@ -179,7 +179,9 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**Property Inference Attacks on Convolutional Neural Networks: Influence and Implications of Target Model's Complexity**](https://arxiv.org/abs/2104.13061) (Parisot et al., 2021)
 - [**Honest-but-Curious Nets: Sensitive Attributes of Private Inputs can be Secretly Coded into the Entropy of Classifiers' Outputs**](https://arxiv.org/abs/2105.12049) (Malekzadeh et al. 2021) ([code](https://github.com/mmalekzadeh/honest-but-curious-nets))
 - [**Property Inference Attacks Against GANs**](https://arxiv.org/abs/2111.07608) (Zhou et al., 2021) ([code](https://github.com/Zhou-Junhao/PIA_GAN))
-- [**Formalizing and Estimating Distribution Inference Risks**](https://arxiv.org/abs/2109.06024) (Suri et al., 2022) ([code](https://github.com/iamgroot42/FormEstDistRisks))
+- [**Formalizing and Estimating Distribution Inference Risks**](https://arxiv.org/abs/2109.06024) (Suri and Evans, 2022) ([code](https://github.com/iamgroot42/FormEstDistRisks))
+- [**Dissecting Distribution Inference**](https://ieeexplore.ieee.org/abstract/document/10136142) (Suri et al., 2023) ([code](https://github.com/iamgroot42/dissecting_dist_inf))
+- [**SNAP: Efficient Extraction of Private Properties with Poisoning**](https://ieeexplore.ieee.org/abstract/document/10179334) (Chaudhari et al., 2023) ([code](https://github.com/johnmath/snap-sp23))
 
 
 ## Model extraction
