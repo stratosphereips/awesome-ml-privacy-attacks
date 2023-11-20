@@ -166,6 +166,7 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**Plug & Play Attacks: Towards Robust and Flexible Model Inversion Attacks**](https://arxiv.org/abs/2201.12179) (Struppek et al., 2022)
 - [**Privacy Vulnerability of Split Computing to Data-Free Model Inversion Attacks**](https://arxiv.org/abs/2107.06304) (Dong et al., 2022)
 - [**A Linear Reconstruction Approach for Attribute Inference Attacks against Synthetic Data**](https://arxiv.org/abs/2301.10053) (Annamalai et al., 2023)
+- [**Text Embeddings Reveal (Almost) As Much As Text**](https://arxiv.org/abs/2310.06816?ref=upstract.com)(Morris et al., 2023)
 
 
 
