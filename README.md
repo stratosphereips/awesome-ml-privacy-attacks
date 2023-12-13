@@ -245,6 +245,7 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**Dataset Inference for Self-Supervised Models**](https://proceedings.neurips.cc/paper_files/paper/2022/hash/4ebf0617b32da2cd083c3b17c7285cce-Abstract-Conference.html) (Dziedzic et al., 2022) [code](https://github.com/cleverhans-lab/DatasetInferenceForSelfSupervisedModels)
 - [**Can't Steal? Cont-Steal! Contrastive Stealing Attacks Against Image Encoders**](https://arxiv.org/abs/2201.07513) (Sha et al., 2022) 
 - [**StolenEncoder: Stealing Pre-trained Encoders**](https://arxiv.org/abs/2201.05889) (Liu et al., 2022)
+- [**Model Extraction Attacks Revisited**](https://arxiv.org/abs/2312.02382) (Liang et al., 2023)
 
 
 # Other
