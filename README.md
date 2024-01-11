@@ -249,6 +249,7 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 
 
 # Other
+- [**Prompts Should not be Seen as Secrets: Systematically Measuring Prompt Extraction Attack Success**](https://arxiv.org/abs/2307.06865)(Zhang et al., 2023)
 - [**Amnesiac Machine Learning**](https://arxiv.org/abs/2010.10981) (Graves et al., 2020)
 - [**Toward Robustness and Privacy in Federated Learning: Experimenting with Local and Central Differential Privacy**](https://arxiv.org/abs/2009.03561) (Naseri et al., 2020)
 - [**Analyzing Information Leakage of Updates to Natural Language Models**](https://arxiv.org/abs/1912.07942) (Brockschmidt et al., 2020)
