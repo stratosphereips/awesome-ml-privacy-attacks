@@ -14,6 +14,7 @@ This repository contains a curated list of papers related to privacy attacks aga
 - [Other](#other)
 
 # Surveys and Overviews
+- [**SoK: Model Inversion Attack Landscape: Taxonomy, Challenges, and Future Roadmap**](https://ieeexplore.ieee.org/abstract/document/10221914) (Sayanton Dibbo, 2023)
 - [**A Survey of Privacy Attacks in Machine Learning**](https://dl.acm.org/doi/10.1145/3624010) (Rigaki and Garcia, 2023)
 - [**An Overview of Privacy in Machine Learning**](https://arxiv.org/pdf/2005.08679) (De Cristofaro, 2020)
 - [**Rethinking Privacy Preserving Deep Learning: How to Evaluate and Thwart Privacy Attacks**](https://arxiv.org/abs/2006.11601) (Fan et al., 2020)
@@ -169,6 +170,7 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**Analysis and Utilization of Hidden Information in Model Inversion Attacks**](https://ieeexplore.ieee.org/document/10184490) (Zhang et al., 2023) ([code](https://github.com/zhangzp9970/Amplified-MIA))
 - [**Text Embeddings Reveal (Almost) As Much As Text**](https://arxiv.org/abs/2310.06816?ref=upstract.com)(Morris et al., 2023)
 - [**On the Inadequacy of Similarity-based Privacy Metrics: Reconstruction Attacks against "Truly Anonymous Synthetic Data"**](https://arxiv.org/abs/2312.05114) (Ganev and De Cristofaro, 2023)
+- [**Model Inversion Attack with Least Information and an In-depth Analysis of its Disparate Vulnerability**](https://ieeexplore.ieee.org/abstract/document/10136179) (Dibbo et al., 2023)
 
 
 ## Property inference / Distribution inference
@@ -269,3 +271,5 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**Learning to Break Deep Perceptual Hashing: The Use Case NeuralHash**](https://arxiv.org/abs/2111.06628) (Struppek et al., 2021)
 - [**The Privacy Onion Effect: Memorization is Relative**](https://arxiv.org/abs/2206.10469) (Carlini et al., 2022)
 - [**Truth Serum: Poisoning Machine Learning Models to Reveal Their Secrets**](https://arxiv.org/abs/2204.00032) (Tramer et al., 2022)
+- [**LCANets++: Robust Audio Classification using Multi-layer Neural Networks with Lateral Competition**](https://arxiv.org/abs/2308.12882) (Dibbo et al., 2023)
+
