@@ -9,7 +9,7 @@ This repository contains a curated list of papers related to privacy attacks aga
 - [Papers and Code](#papers-and-code)
   - [Membership inference](#membership-inference)
   - [Reconstruction](#reconstruction)
-  - [Property inference/Distribution inference](#property-inference)
+  - [Property inference/Distribution inference](#property-inference--distribution-inference)
   - [Model extraction](#model-extraction)
 - [Other](#other)
 
@@ -171,6 +171,7 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**Text Embeddings Reveal (Almost) As Much As Text**](https://arxiv.org/abs/2310.06816?ref=upstract.com)(Morris et al., 2023)
 - [**On the Inadequacy of Similarity-based Privacy Metrics: Reconstruction Attacks against "Truly Anonymous Synthetic Data"**](https://arxiv.org/abs/2312.05114) (Ganev and De Cristofaro, 2023)
 - [**Model Inversion Attack with Least Information and an In-depth Analysis of its Disparate Vulnerability**](https://ieeexplore.ieee.org/abstract/document/10136179) (Dibbo et al., 2023)
+- [**ProPILE: Probing Privacy Leakage in Large Language Models**](https://arxiv.org/abs/2307.01881) (Kim et al., 2023)
 
 
 ## Property inference / Distribution inference
