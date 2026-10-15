@@ -192,6 +192,8 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**SNAP: Efficient Extraction of Private Properties with Poisoning**](https://ieeexplore.ieee.org/abstract/document/10179334) (Chaudhari et al., 2023) ([code](https://github.com/johnmath/snap-sp23))
 
 
+- [**TranScope: What the Software Hides About LLM Training Data, the Hardware Reveals at Scale, and Accelerators Magnify**](https://arxiv.org/abs/2610.06848) (Kalyanapu et al., 2026; arXiv preprint) — Infers training-data distribution from cache/TLB and hardware-counter footprints in locally executed models, with privileged auditor control of the hardware, OS, and inference runtime.
+
 ## Model extraction
 - [**Stealing machine learning models via prediction apis**](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_tramer.pdf) (Tramèr et al., 2016) ([code](https://github.com/ftramer/Steal-ML)) 
 - [**Stealing hyperparameters in machine learning**](https://ieeexplore.ieee.org/iel7/8418581/8418583/08418595.pdf) (Wang B. et al., 2018)
