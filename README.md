@@ -104,6 +104,8 @@ A curated list of membership inference papers (more than 100 papers) on machine 
 
 
 
+- [**GateBleed: Exploiting On-Core Accelerator Power Gating for High Performance and Stealthy Attacks on AI**](https://doi.org/10.1145/3725843.3756097) (Kalyanapu et al., 2025) ([code](https://github.com/jkalya/gatebleed))
+
 ## Reconstruction
 Reconstruction attacks cover also attacks known as *model inversion* and *attribute inference*.
 - [**Privacy in pharmacogenetics: An end-to-end case study of personalized warfarin dosing**](https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-fredrikson-privacy.pdf) (Fredrikson et al., 2014)
@@ -173,6 +175,8 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**Model Inversion Attack with Least Information and an In-depth Analysis of its Disparate Vulnerability**](https://ieeexplore.ieee.org/abstract/document/10136179) (Dibbo et al., 2023)
 
 
+- [**FeatureBleed: Inferring Private Enriched Attributes From Sparsity-Optimized AI Accelerators**](https://arxiv.org/abs/2602.18304) (Asher et al., 2026)
+
 ## Property inference / Distribution inference
 - [**Hacking smart machines with smarter ones: How to extract meaningful data from machine learning classifiers**](https://dl.acm.org/doi/10.1504/IJSN.2015.071829) (Ateniese et al., 2015)
 - [**Property inference attacks on fully connected neural networks using permutation invariant representations**](https://dl.acm.org/doi/pdf/10.1145/3243734.3243834) (Ganju et al., 2018)
@@ -187,6 +191,8 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**Dissecting Distribution Inference**](https://ieeexplore.ieee.org/abstract/document/10136142) (Suri et al., 2023) ([code](https://github.com/iamgroot42/dissecting_dist_inf))
 - [**SNAP: Efficient Extraction of Private Properties with Poisoning**](https://ieeexplore.ieee.org/abstract/document/10179334) (Chaudhari et al., 2023) ([code](https://github.com/johnmath/snap-sp23))
 
+
+- [**TranScope: What the Software Hides About LLM Training Data, the Hardware Reveals at Scale, and Accelerators Magnify**](https://arxiv.org/abs/2610.06848) (Kalyanapu et al., 2026; arXiv preprint) — Infers training-data distribution from cache/TLB and hardware-counter footprints in locally executed models, with privileged auditor control of the hardware, OS, and inference runtime.
 
 ## Model extraction
 - [**Stealing machine learning models via prediction apis**](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_tramer.pdf) (Tramèr et al., 2016) ([code](https://github.com/ftramer/Steal-ML)) 
@@ -249,6 +255,8 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**StolenEncoder: Stealing Pre-trained Encoders**](https://arxiv.org/abs/2201.05889) (Liu et al., 2022)
 - [**Model Extraction Attacks Revisited**](https://arxiv.org/abs/2312.05386) (Liang et al., 2023)
 
+
+- [**Thor: A Non-Speculative Value Dependent Timing Side Channel Attack Exploiting Intel AMX**](https://arxiv.org/abs/2502.17658) (Dizani et al., 2025) — Infers neural-network weight sparsity through a value-dependent timing side channel in Intel AMX.
 
 # Other
 - [**Prompts Should not be Seen as Secrets: Systematically Measuring Prompt Extraction Attack Success**](https://arxiv.org/abs/2307.06865)(Zhang et al., 2023)
