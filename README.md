@@ -171,6 +171,7 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**Text Embeddings Reveal (Almost) As Much As Text**](https://arxiv.org/abs/2310.06816?ref=upstract.com)(Morris et al., 2023)
 - [**On the Inadequacy of Similarity-based Privacy Metrics: Reconstruction Attacks against "Truly Anonymous Synthetic Data"**](https://arxiv.org/abs/2312.05114) (Ganev and De Cristofaro, 2023)
 - [**Model Inversion Attack with Least Information and an In-depth Analysis of its Disparate Vulnerability**](https://ieeexplore.ieee.org/abstract/document/10136179) (Dibbo et al., 2023)
+- [**SPARSEBLEED: Bypassing Attribute-Inference Defenses via Sparsity Optimizations**](https://arxiv.org/abs/2610.38110) (Asher et al., 2026; arXiv preprint)
 
 
 ## Property inference / Distribution inference
